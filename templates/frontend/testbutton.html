@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<form id="myForm" action="{% url 'submit_view' %}" method="POST">
+  {% csrf_token %}
+  <input type="text" name="name" required />
+  <button id="submitBtn" type="submit">
+    <span id="submitBtnText">Submit</span>
+    <span id="spinner" style="display:none;">🔄</span>
+  </button>
+</form>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    if (document.getElementById("myForm")) {
+      handleFormSubmission("myForm", "submitBtn", "spinner", "submitBtnText", "#888");
+    }
+</script>
+{% endblock %}
+
+
+
+
+<!-- for link -->
+<a href="/page1" data-link-action data-disabled-color="#888" style="...">
+    <span class="link-text">Go to Page 1</span>
+    <span class="spinner" style="display:none; margin-left: 8px;">🔄</span>
+  </a>
+  
+  <a href="/page2" data-link-action data-disabled-color="#888" style="...">
+    <span class="link-text">Go to Page 2</span>
+    <span class="spinner" style="display:none; margin-left: 8px;">🔄</span>
+  </a>
+  
+  <!-- Add as many as you want, no ID collisions -->
+  
+<!-- how to inetgrtae link -->
+<!-- How to Integrate
+Put the JS script in a file like custom/globalscript.js and load it in your base template.
+
+Add the data-link-action, data-spinner-id, and data-text-id attributes to your links.
+
+Make sure the spinner and text elements inside the link have matching IDs.
+
+Style the link and spinner as you like! -->

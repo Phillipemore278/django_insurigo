@@ -1,0 +1,207 @@
+{% extends './base.html' %} 
+{% load static %} 
+{% block content %} 
+<!-- ==== About Page 2 Banner Section Start ==== -->
+<section class="rs-page-banner rs-team-page-banner pt-100 pb-120 mt-140">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="rs-page-banner__content">
+                    <ul>
+                        <li><a href="{% url 'frontend:home' %}">Home</a></li>
+                        <li>About Us </li>
+                    </ul>
+                    <h1 class="title">About Us</h1>
+                    <p>Looking for insurance coverage anywhere in the world? <br>Feel free to reach out to us anytime—no hesitation needed. Our expert support team is always ready to help you find the perfect policy tailored to your needs.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==== About Page 2 Banner Section Ends ==== -->
+
+
+
+<!-- ==== About Section Start ==== -->
+<section class="rs-about pt-120" id="rs-about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="rs-about__thumb wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0s">
+                    <img src="{% static 'frontend/assets/images/about-h4-1.png' %}" alt="">
+                    <div class="rs-thumb-1">
+                        <img src="{% static 'frontend/assets/images/about-h4-sm1.jpg' %}" alt="">
+                    </div>
+                    <div class="rs-shape-1">
+                        <img src="{% static 'frontend/assets/images/about-h4-line.png' %}" alt="">
+                    </div>
+                    <div class="rs-shape-2">
+                        <img src="{% static 'frontend/assets/images/about-h4-dot-1.png' %}" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="rs-about__content">
+                    <span> About Us</span>
+                    <h2 class="title">Save 50% on your life insurance policy get now</h2>
+                    <p>Insurigorex is a trusted organization dedicated to providing insurance solutions for individuals and businesses seeking reliable coverage. We collaborate with experienced agencies that play a vital role in the insurance industry—connecting customers with policies tailored to their unique needs. Whether it's protection against accidents, illness, property damage, liability, or other risks, our goal is to help clients safeguard what matters most through the right coverage and expert guidance.</p>
+                    <ul>
+                        <li><a class="main-btn" href="{% url 'frontend:home' %}">Get Started<i class="ri-arrow-right-line"></i></a></li>
+                        <li><a href="{% url 'frontend:home' %}">Get offer save 50% <i class="ri-arrow-right-line"></i></a></li>
+                    </ul>
+                </div>
+                <div class="rs-about__counter-box">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="rs-counter-item">
+                                <div class="rs-icon">
+                                    <img src="{% static 'frontend/assets/images/about-icon.svg' %}" alt="">
+                                </div>
+                                <div class="rs-content">
+                                    <h5 class="title">
+                                        <span class="suffix">$</span>
+                                        <span class="odometer" data-count="990">00</span>
+                                        <span class="prefix">Mil+</span>
+                                    </h5>
+                                    <span>Total Claim</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="rs-counter-item">
+                                <div class="rs-icon">
+                                    <img src="{% static 'frontend/assets/images/about-icon.svg' %}" alt="">
+                                </div>
+                                <div class="rs-content">
+                                    <h5 class="title">
+                                        <span class="odometer" data-count="120">00</span>
+                                        <span class="prefix">+</span>
+                                    </h5>
+                                    <span>Award Winning</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="rs-counter-item">
+                                <div class="rs-icon">
+                                    <img src="{% static 'frontend/assets/images/about-icon.svg' %}" alt="">
+                                </div>
+                                <div class="rs-content">
+                                    <h5 class="title">
+                                        <span class="odometer" data-count="800">00</span>
+                                        <span class="prefix">k+</span>
+                                    </h5>
+                                    <span>Worldwide Clients</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==== About Service Section Ends ==== -->
+
+
+<!-- ==== Agent Section Start ==== -->
+<section class="rs-agent rs-agent-about-page pt-80 pb-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="rs-agent__content pr-50 wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.0s">
+                    <h2 class="title">Need to File Claim?</h2>
+                    <p>We're here to guide you every step of the way—from the moment you report the incident to the resolution of your claim.</p>
+                    <a class="main-btn" href="#">File a claim <i class="ri-arrow-right-line"></i></a>
+                    <div class="rs-shape">
+                        <img src="{% static 'frontend/assets/images/call_line_1.png' %}" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2"></div>
+            <div class="col-lg-5">
+                <div class="rs-agent__content item-2 pr-50 wow fadeInRight" data-wow-duration="1.5s" data-wow-delay="0.0s">
+                    <h2 class="title">Find An Agent!</h2>
+                    <p>Connect with a local expert who understands your needs.</p>
+                    <a class="main-btn" href="#">Find an Agent <i class="ri-arrow-right-line"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==== Agent Section Ends ==== -->
+
+
+<!-- ==== About Page Why Choose Section Start ==== -->
+<section class="rs-why-choose-about-page pt-120 pb-145">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="section-title">
+                    <span> Why Choose Us</span>
+                    <h2 class="title">We've Got You Covered With Our Car Insurance Solutions </h2>
+                    <p>When it comes to protecting your vehicle, peace of mind matters. That's why at Insurigorex, we proudly say, “We've got you covered with our car insurance solutions.” More than just a slogan, it's a promise to our customers that we're here to offer reliable, affordable, and comprehensive protection, no matter where the road takes you. <br>Car insurance isn't just a legal requirement; its a safety net that protects you, your passengers, and your finances. From fender benders to major accidents, our tailored policies are designed to fit your unique needs. Whether you're a new driver, a family with multiple vehicles, or someone with a perfect driving record, we offer flexible coverage options that put you in control.</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="rs-why-choose-about-page__thumb wow fadeInRight" data-wow-duration="1.5s" data-wow-delay="1.8s">
+                    <img src="{% static 'frontend/assets/images/why-choose-thumb.jpg' %}" alt="">
+                    <div class="rs-shape">
+                        <img src="{% static 'frontend/assets/images/about-h4-line.png' %}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rs-why-choose-box">
+            <div class="row">
+                <div class="col-lg-11">
+                    <div class="row pr-85">
+                        <div class="col-lg-3 col-md-6">
+                            <div class="rs-why-choose-about-page__item wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.0s">
+                                <div class="rs-icon">
+                                    <img src="{% static 'frontend/assets/images/why-choose-1.svg' %}" alt="">
+                                </div>
+                                <span>01</span>
+                                <h4 class="title">Save Money</h4>
+                                <p>Our car insurance solutions go beyond standard protection. We offer flexible coverage options that put you in control.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="rs-why-choose-about-page__item wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
+                                <div class="rs-icon">
+                                    <img src="{% static 'frontend/assets/images/why-choose-2.svg' %}" alt="">
+                                </div>
+                                <span>02</span>
+                                <h4 class="title">Reliable Services</h4>
+                                <p>our tailored policies are designed to fit your unique needs. Whether you're a new driver, a family with multiple vehicles</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="rs-why-choose-about-page__item wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.6s">
+                                <div class="rs-icon">
+                                    <img src="{% static 'frontend/assets/images/why-choose-3.svg' %}" alt="">
+                                </div>
+                                <span>03</span>
+                                <h4 class="title">Rental Coverage</h4>
+                                <p> We offer roadside assistance, rental car reimbursement and even accident forgiveness for qualified drivers</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="rs-why-choose-about-page__item wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.9s">
+                                <div class="rs-icon">
+                                    <img src="{% static 'frontend/assets/images/why-choose-4.svg' %}" alt="">
+                                </div>
+                                <span>04</span>
+                                <h4 class="title">Life Time Support</h4>
+                                <p>it's a promise to our customers that we're here to offer reliable, affordable, and comprehensive protection, no matter where the road takes you. </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-1"></div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==== About Page Why Choose Section Ends ==== -->
+{% endblock %}

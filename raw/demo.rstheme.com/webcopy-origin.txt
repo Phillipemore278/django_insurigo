@@ -1,0 +1,1460 @@
+Uri: https://demo.rstheme.com/html/insurigo/about-1.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\about-1.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/about-2.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\about-2.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/animation.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\animation.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/bootstrap.min.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/font-awesome.min.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/magnific-popup.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/odometer.min.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\odometer.min.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/owl.carousel.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/remixicon.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\remixicon.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/rs-layouts.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\rs-layouts.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/skeletabs.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\skeletabs.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/slick.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/css/style.css
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\css\style.css
+Content Type: text/css
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/remixicon.eot?t=1690730386070
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/remixicon.svg?t=1690730386070
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/remixicon.ttf?t=1690730386070
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\remixicon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/remixicon.woff2?t=1690730386070
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/fonts/remixicon.woff?t=1690730386070
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\fonts\remixicon.woff
+Content Type: font/woff
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/4.5.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\4.5.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-author.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-author.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-h3-1-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-h3-1-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-h3-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-h3-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-h4-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-h4-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-h4-dot-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-h4-dot-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-h4-line.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-h4-line.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-h4-sm1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-h4-sm1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-icon-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-icon-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-icon.svg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-service-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-service-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-service-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-service-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-service-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-service-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-service-bg.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-service-bg.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-service-icon-1.svg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-service-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-service-icon-2.svg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-service-icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-service-icon-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-service-icon-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-tab1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-tab1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-thumb-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about-video-bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about-video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about_bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about_img_1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about_img_1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about_img_2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about_img_2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/about_section_bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\about_section_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/app-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\app-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/app-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\app-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/arrow-1.svg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\arrow-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/arrow-dirrections.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\arrow-dirrections.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/author-avatar.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\author-avatar.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/avg_rating_img.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\avg_rating_img.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/award1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\award1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/award2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\award2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/award3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\award3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/banner-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\banner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/banner-slider-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\banner-slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/banner-slider-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\banner-slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/banner-thumb-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\banner-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/banner_bottom_shape.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\banner_bottom_shape.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/banner_right_shape.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\banner_right_shape.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-sidebar-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-sidebar-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-sidebar-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-sidebar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-sidebar-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-sidebar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-sidebar-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-sidebar-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-sidebar-5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-sidebar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-standard-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-standard-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-standard-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-standard-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-standard-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-standard-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-standard-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-standard-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-standard-5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-standard-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-standard-6.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-standard-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-standard-7.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-standard-7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-10.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-10.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-11.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-11.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-6.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-7.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-8.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/blog-thumb-9.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\blog-thumb-9.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/bnr-h2-img1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\bnr-h2-img1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/bnr-h4-icon-1.svg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\bnr-h4-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/brand-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\brand-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/brand-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\brand-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/brand-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\brand-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/call-action-bg1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\call-action-bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/call_line_1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\call_line_1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/call_to_action_bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\call_to_action_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/choose_us_feature.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\choose_us_feature.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/choose_us_shape.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\choose_us_shape.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/choose_us_small.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\choose_us_small.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/company-logo1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\company-logo1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/company-logo2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\company-logo2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/company-logo3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\company-logo3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/compare-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\compare-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/compare-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\compare-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/compare-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\compare-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/compare-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\compare-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/compare-bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\compare-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/counter-h2-bg1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\counter-h2-bg1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/counter-icon-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\counter-icon-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/counter-icon-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\counter-icon-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/counter-icon-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\counter-icon-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/counter-icon-4.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\counter-icon-4.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/counter-icon-5.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\counter-icon-5.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/counter-icon-6.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\counter-icon-6.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/counter-icon-7.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\counter-icon-7.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/counter-sec-bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\counter-sec-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/cta-bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\cta-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/fade-ellipse-bg.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\fade-ellipse-bg.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/faq-h3-b1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\faq-h3-b1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/faq-thumb.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\faq-thumb.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/faq_bg_image.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\faq_bg_image.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/faq_sec-bg.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\faq_sec-bg.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/fav.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\fav.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/feacture-h4-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\feacture-h4-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/feature1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\feature1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/feature2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\feature2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/feature3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\feature3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/featured-icon-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\featured-icon-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/featured-icon-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\featured-icon-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/featured-icon-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\featured-icon-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/Footer-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\Footer-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/footerbg-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\footerbg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/footer_bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\footer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/gallery-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/gallery-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/gallery-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/gallery-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/galley-thumb-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\galley-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/galley-thumb-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\galley-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/galley-thumb-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\galley-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/galley-thumb-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\galley-thumb-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/galley-thumb-5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\galley-thumb-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/galley-thumb-6.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\galley-thumb-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/growth-shape.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\growth-shape.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/home_2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\home_2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/home_4_logo_1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\home_4_logo_1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/home_4_logo_2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\home_4_logo_2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/home_4_logo_3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\home_4_logo_3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/home_4_logo_4.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\home_4_logo_4.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/insurance-quote-right-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\insurance-quote-right-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/insurance-quote-right.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\insurance-quote-right.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/line_img.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\line_img.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/logo-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\logo-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/logo-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\logo-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/logo-3-light.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\logo-3-light.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/logo-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\logo-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/logo-4.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\logo-4.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/logo_home2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\logo_home2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/logo_light-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\logo_light-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/logo_light.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\logo_light.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/money_2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\money_2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/newslatter-bg2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\newslatter-bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/newsletter_bg_home_4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\newsletter_bg_home_4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/noodles-arrow.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\noodles-arrow.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/page-banner-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\page-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/page-banner-10.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\page-banner-10.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/page-banner-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\page-banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/page-banner-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\page-banner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/page-banner-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\page-banner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/page-banner-5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\page-banner-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/page-banner-6.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\page-banner-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/page-banner-7.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\page-banner-7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/page-banner-8.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\page-banner-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/page-banner-9.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\page-banner-9.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/partner-logo1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\partner-logo1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/partner-logo2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\partner-logo2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/partner-logo3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\partner-logo3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/partner-logo4.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\partner-logo4.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/Profit.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\Profit.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project-details-thumb.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project-details-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project-grid-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project-grid-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project-grid-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project-grid-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project-grid-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project-grid-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project-grid-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project-grid-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project-grid-5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project-grid-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project-grid-6.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project-grid-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project-grid-7.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project-grid-7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project-grid-8.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project-grid-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project-grid-9.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project-grid-9.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project_single_1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project_single_1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project_single_2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project_single_2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project_single_3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project_single_3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project_single_4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project_single_4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project_single_5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project_single_5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project_single_6.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project_single_6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project_single_7.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project_single_7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project_single_8.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project_single_8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/project_single_9.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\project_single_9.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/ptnr-h3-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\ptnr-h3-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/ptnr-h3-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\ptnr-h3-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/ptnr-h3-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\ptnr-h3-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/ptnr-h3-4.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\ptnr-h3-4.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/quote_icon.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\quote_icon.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/quote_red_icon.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\quote_red_icon.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/rating.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\rating.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/review_rating_img.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\review_rating_img.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/right_shape_arrow.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\right_shape_arrow.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-6.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-icon-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-icon-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-icon-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-icon-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-icon-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-icon-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-icon-4.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-icon-4.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-icon-5.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-icon-5.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-icon-6.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-icon-6.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-icon-7.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-icon-7.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-img1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-img2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-img3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-img4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-img5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-page-banner.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-page-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-slider-bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-slider-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-thumb-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-thumb-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-thumb-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-thumb-4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-thumb-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-thumb-5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-thumb-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service-thumb-6.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service-thumb-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/services-details-img1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\services-details-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/services-details.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\services-details.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/services_bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\services_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_arrow.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_arrow.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_cta_bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_cta_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_icon_1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_icon_1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_icon_2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_icon_2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_icon_3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_icon_3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_icon_6-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_icon_6-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_img_1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_img_1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_img_3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_img_3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_img_4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_img_4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_img_5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_img_5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_img_6.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_img_6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_img_h_1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_img_h_1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_img_h_1_3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_img_h_1_3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_img_h_1_5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_img_h_1_5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_shape_icon.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_shape_icon.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/service_single_img.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\service_single_img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/ser_img2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\ser_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/shape-tringles.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\shape-tringles.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/sidebar-contact-thumb.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\sidebar-contact-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/sidebar_img_portfolio.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\sidebar_img_portfolio.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/star-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\star-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/star_img.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\star_img.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/tab-thumb-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\tab-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/tab-thumb-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\tab-thumb-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/tab-thumb-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\tab-thumb-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/tab_man_image.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\tab_man_image.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-10.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-10.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-11.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-11.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-4.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-4.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-6.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-7.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-8.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-9.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-9.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-content-shape.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-content-shape.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team-image-shape.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team-image-shape.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/team_section_bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\team_section_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testi1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testi1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testi2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testi2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testi3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testi3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testi4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testi4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testi5.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testi5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testimonial-brand-1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testimonial-brand-1.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testimonial-brand-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testimonial-brand-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testimonial-brand-3.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testimonial-brand-3.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testimonial-brand-4.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testimonial-brand-4.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testimonial-shape.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testimonial-shape.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testimonial-thumb-2.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testimonial-thumb-2.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testimonial_author.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testimonial_author.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testimonial_bg_home_4.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testimonial_bg_home_4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testimonial_large_img.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testimonial_large_img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/testimonial_right_img.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\testimonial_right_img.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/title_icon.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\title_icon.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/twisted-arrow.svg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\twisted-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/video-bg.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/why-choose-1.svg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\why-choose-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/why-choose-2.svg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\why-choose-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/why-choose-3.svg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\why-choose-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/why-choose-4.svg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\why-choose-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/why-choose-thumb.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\why-choose-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/work-process-1.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\work-process-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/work-process-2.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\work-process-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/images/work-process-3.jpg
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\images\work-process-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/ajax-contact.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\ajax-contact.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/bootstrap.bundle.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/jquery.appear.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\jquery.appear.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/jquery.malihu.PageScroll2id.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\jquery.malihu.PageScroll2id.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/jquery.marquee.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\jquery.marquee.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/jquery.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/main.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/odometer.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/owl.carousel.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/skeletabs.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\skeletabs.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/skill.bars.jquery.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\skill.bars.jquery.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/slick.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/waypoint.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\waypoint.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/assets/js/wow.min.js
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://demo.rstheme.com/html/insurigo/blog-grid.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\blog-grid.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/blog-single.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\blog-single.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/blog.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\blog.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/car-insurance.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\car-insurance.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/contact.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\contact.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/family-insurance.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\family-insurance.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/faq.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\faq.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/house-insurance.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\house-insurance.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/index-2.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\index-2.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/index-3.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\index-3.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/index-4.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\index-4.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/index.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\index.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/life-insurance.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\life-insurance.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/onepage-2.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\onepage-2.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/onepage-3.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\onepage-3.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/onepage-4.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\onepage-4.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/onepage.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\onepage.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/pricing.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\pricing.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/project-details.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\project-details.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/project.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\project.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/service-1.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\service-1.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/service-2.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\service-2.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/service-3.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\service-3.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/tab-style-1.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\tab-style-1.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/tab-style-2.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\tab-style-2.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/tab-style-3.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\tab-style-3.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/team-details.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\team-details.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/team.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\team.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/html/insurigo/travel-insurance.html
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\html\insurigo\travel-insurance.html
+Content Type: text/html
+
+Uri: https://demo.rstheme.com/wordpress/insurigo/wp-content/plugins/rselements/widgets/header-offcanvas/close.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\wordpress\insurigo\wp-content\plugins\rselements\widgets\header-offcanvas\close.png
+Content Type: image/png
+
+Uri: https://demo.rstheme.com/wordpress/insurigo/wp-content/uploads/2023/10/bnr-h5-log1.png
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\wordpress\insurigo\wp-content\uploads\2023\10\bnr-h5-log1.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T5_R.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT5_R.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTp_R.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTp_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT5_R.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSJ_R.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSJ_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSJ_R.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSJ_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT5_R.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT5_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSJ_R.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSJ_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSJ_R.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSJ_R.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDA.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiDA.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLiDA.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTiDA.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPiDA.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTiDA.ttf
+File Name: C:\Users\NEPHYGTDKINGZ\work\Downloaded templates\insurance company\demo.rstheme.com\s\epilogue\v17\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTiDA.ttf
+Content Type: font/ttf
+

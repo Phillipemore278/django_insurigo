@@ -1,0 +1,565 @@
+{% extends './base.html' %} 
+{% load static %} 
+{% block content %} 
+
+
+
+<!-- ==== Banner Section Start ==== -->
+<section class="rs-banner pt-150 pb-160 mt-135">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="rs-banner__content">
+                    <div class="top-heading wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0s">
+                        <img src="{% static 'frontend/assets/images/bnr-h4-icon-1.svg' %}" alt="">
+                        <span>Award Winning Insurance Company </span>
+                    </div>
+                    <h1 class="title wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.4s">We Ensure The Best Insurance Service</h1>
+                    <p class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.8s">Protect What Matters Most — Easy Car & Health Insurance You Can Trust. We're here to help you and your business manage risks and keep your financial future secure—without any extra costs or surprises.</p>
+                    <a class="main-btn wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1.2s" href="about-1.html">Get a quote <i class="ri-arrow-right-line"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==== Banner Section Ends ==== -->
+
+
+<!-- ==== About Service Section Start ==== -->
+<div class="rs-about-service">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="rs-about-service__item">
+                    <div class="rs-icon">
+                        <img src="{% static 'frontend/assets/images/about-service-icon-1.svg' %}" alt="">
+                    </div>
+                    <div class="rs-content">
+                        <h4 class="title">More Coverage</h4>
+                        <p> Insurigo covers 12,600+ injuries and illnesses from concussions to cancer </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="rs-about-service__item item-2">
+                    <div class="rs-icon">
+                        <img src="{% static 'frontend/assets/images/about-service-icon-2.svg' %}" alt="">
+                    </div>
+                    <div class="rs-content">
+                        <h4 class="title">Less Hassle</h4>
+                        <p> One easy-to-manage plan with paperless instant and online admin tools </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="rs-about-service__item item-3">
+                    <div class="rs-icon">
+                        <img style="width: 62px;" src="{% static 'frontend/assets/images/about-service-icon-3.png' %}" alt="">
+                    </div>
+                    <div class="rs-content">
+                        <h4 class="title">Faster Benefits</h4>
+                        <p> Insurigo pays claims in hours-not weeks so your people can rest easy </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ==== About Service Section End ==== -->
+
+<!-- ==== About Section Start ==== -->
+<section class="rs-about pt-120" id="rs-about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="rs-about__thumb wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0s">
+                    <img src="{% static 'frontend/assets/images/about-h4-1.png' %}" alt="">
+                    <div class="rs-thumb-1">
+                        <img src="{% static 'frontend/assets/images/about-h4-sm1.jpg' %}" alt="">
+                    </div>
+                    <div class="rs-shape-1">
+                        <img src="{% static 'frontend/assets/images/about-h4-line.png' %}" alt="">
+                    </div>
+                    <div class="rs-shape-2">
+                        <img src="{% static 'frontend/assets/images/about-h4-dot-1.png' %}" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="rs-about__content">
+                    <span> About Us</span>
+                    <h2 class="title">Save 50% on your life insurance policy get now</h2>
+                    <p>Insurigorex is a trusted organization dedicated to providing insurance solutions for individuals and businesses seeking reliable coverage. We collaborate with experienced agencies that play a vital role in the insurance industry—connecting customers with policies tailored to their unique needs. Whether it's protection against accidents, illness, property damage, liability, or other risks, our goal is to help clients safeguard what matters most through the right coverage and expert guidance.</p>
+                    <ul>
+                        <li><a class="main-btn" href="{% url 'frontend:home' %}">Know More<i class="ri-arrow-right-line"></i></a></li>
+                        <li><a href="{% url 'frontend:home' %}">Get offer save 50% <i class="ri-arrow-right-line"></i></a></li>
+                    </ul>
+                </div>
+                <div class="rs-about__counter-box">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="rs-counter-item">
+                                <div class="rs-icon">
+                                    <img src="{% static 'frontend/assets/images/about-icon.svg' %}" alt="">
+                                </div>
+                                <div class="rs-content">
+                                    <h5 class="title">
+                                        <span class="suffix">$</span>
+                                        <span class="odometer" data-count="990">00</span>
+                                        <span class="prefix">Mil+</span>
+                                    </h5>
+                                    <span>Total Claim</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="rs-counter-item">
+                                <div class="rs-icon">
+                                    <img src="{% static 'frontend/assets/images/about-icon.svg' %}" alt="">
+                                </div>
+                                <div class="rs-content">
+                                    <h5 class="title">
+                                        <span class="odometer" data-count="120">00</span>
+                                        <span class="prefix">+</span>
+                                    </h5>
+                                    <span>Award Winning</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="rs-counter-item">
+                                <div class="rs-icon">
+                                    <img src="{% static 'frontend/assets/images/about-icon.svg' %}" alt="">
+                                </div>
+                                <div class="rs-content">
+                                    <h5 class="title">
+                                        <span class="odometer" data-count="800">00</span>
+                                        <span class="prefix">k+</span>
+                                    </h5>
+                                    <span>Worldwide Clients</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==== About Service Section Ends ==== -->
+
+
+<!-- services -->
+{% include './partials/service.html' %}
+<!-- services end -->
+
+
+<!--===== Why Choose Start =====-->
+<section class="rs-why-choose pt-120 pb-185">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="section-title white">
+                    <span>Why Choose Insurigo</span>
+                    <h2 class="title">Our insurance platforms provide seamless integration <span>of systems and fast on-boarding of insurance programs, enabled by our advanced technology platform.</span></h2>
+                </div>
+                <div class="rs-why-choose__list">
+                    <ul>
+                        <li><i class="ri-check-double-line"></i> Get paid up to 2 days faster </li>
+                        <li><i class="ri-check-double-line"></i> Score cashback up to 10% </li>
+                    </ul>
+                    <ul>
+                        <li><i class="ri-check-double-line"></i> No fees, No credit checks</li>
+                        <li><i class="ri-check-double-line"></i> Fast & Easy Process </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="rs-why-choose__thumb wow fadeInRight" data-wow-duration="1s" data-wow-delay="0s">
+                    <img src="{% static 'frontend/assets/images/choose_us_feature.png' %}" alt="">
+                    <div class="rs-thumb-2">
+                        <img src="{% static 'frontend/assets/images/choose_us_small.png' %}" alt="">
+                    </div>
+                    <div class="rs-shape-1">
+                        <img src="{% static 'frontend/assets/images/choose_us_shape.png' %}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--===== Why Choose Ends =====-->
+
+
+<!--===== Work Progress Start =====-->
+<section class="rs-work-progress pt-120 pb-120" id="rs-project">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-8">
+                <div class="section-title">
+                    <span> Insurance Process</span>
+                    <h2 class="title">Easy 3 steps of starting the insurance process</h2>
+                </div>
+            </div>
+            <div class="col-lg-2"></div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="rs-work-progress__item wow fadeInUp pr-95" data-wow-duration="1s" data-wow-delay="0s">
+                    <div class="rs-top-inner">
+                        <div class="rs-thumb">
+                            <img src="{% static 'frontend/assets/images/work-process-1.jpg' %}" alt="">
+                        </div>
+                        <div class="rs-title">
+                            <h3 class="title">Choose Insurance</h3>
+                        </div>
+                        <div class="rs-number">
+                            <span>01</span>
+                        </div>
+                    </div>
+                    <div class="rs-text">
+                        <p>To get started, sign up, log in, select your desired insurance package, and proceed to the next step for further processing.</p>
+                    </div>
+                    <div class="rs-arrow">
+                        <img src="{% static 'frontend/assets/images/arrow-dirrections.png' %}" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="rs-work-progress__item wow fadeInUp item-2 pr-95" data-wow-duration="1s" data-wow-delay=".3s">
+                    <div class="rs-top-inner">
+                        <div class="rs-thumb">
+                            <img src="{% static 'frontend/assets/images/work-process-2.jpg' %}" alt="">
+                        </div>
+                        <div class="rs-title">
+                            <h3 class="title">Reach Out To Assigned Agent</h3>
+                        </div>
+                        <div class="rs-number">
+                            <span>02</span>
+                        </div>
+                    </div>
+                    <div class="rs-text">
+                        <p>After signing up and selecting your insurance package, an agent will be assigned to guide you through the remaining steps efficiently.</p>
+                    </div>
+                    <div class="rs-arrow">
+                        <img src="{% static 'frontend/assets/images/arrow-dirrections.png' %}" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="rs-work-progress__item wow fadeInUp item-3 pl-95" data-wow-duration="1s" data-wow-delay="0.6s">
+                    <div class="rs-top-inner">
+                        <div class="rs-thumb">
+                            <img src="{% static 'frontend/assets/images/work-process-3.jpg' %}" alt="">
+                        </div>
+                        <div class="rs-title">
+                            <h3 class="title">Start Your Policy</h3>
+                        </div>
+                        <div class="rs-number">
+                            <span>03</span>
+                        </div>
+                    </div>
+                    <div class="rs-text">
+                        <p>Once all requirements are fulfilled, your insurance policy will be officially activated and ready to provide coverage.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="rs-shape">
+        <img src="{% static 'frontend/assets/images/service_arrow.png' %}" alt="">
+    </div>
+</section>
+<!--===== Work Progress Ends =====-->
+
+
+<!-- ==== Faq Section Start ==== -->
+<section class="rs-faq pt-120 pb-120" id="rs-contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="rs-faq__content wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0s">
+                    <div class="section-title">
+                        <span> Find The Right Insurance</span>
+                        <h2 class="title">We're here to assist you with exploring protection.</h2>
+                    </div>
+                    <div class="rs-faq__wrapper">
+                        <div class="accordion active">
+                            <div class="accordion_tab active">
+                                <div class="heading-icon">
+                                    <i class="ri-question-fill"></i>
+                                </div>
+                                What is insurance service?
+                                <div class="accordion_arrow">
+                                    <i class="ri-add-fill"></i>
+                                </div>
+                            </div>
+                            <div class="accordion_content">
+                                <div class="accordion_item">
+                                    <p>Insurance service is a financial arrangement that provides protection against potential risks or losses. It offers coverage for health, property, life, or business, helping individuals and organizations manage unexpected events by transferring financial risk to the insurer.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion">
+                            <div class="accordion_tab">
+                                <div class="heading-icon">
+                                    <i class="ri-question-fill"></i>
+                                </div>
+                                How many services do we provide?
+                                <div class="accordion_arrow">
+                                    <i class="ri-add-fill"></i>
+                                </div>
+                            </div>
+                            <div class="accordion_content">
+                                <div class="accordion_item">
+                                    <p>We offer a wide range of insurance policies, including Health Insurance, Car Insurance, Home Insurance, and more. For personalized guidance and detailed information, feel free to reach out to one of our knowledgeable agents anytime.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion">
+                            <div class="accordion_tab">
+                                <div class="heading-icon">
+                                    <i class="ri-question-fill"></i>
+                                </div>
+                                What is the experience of our team members?
+                                <div class="accordion_arrow">
+                                    <i class="ri-add-fill"></i>
+                                </div>
+                            </div>
+                            <div class="accordion_content">
+                                <div class="accordion_item">
+                                    <p>Our team members are highly trained and experienced professionals dedicated to helping you select the perfect insurance package tailored specifically to your unique needs and preferences.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion">
+                            <div class="accordion_tab">
+                                <div class="heading-icon">
+                                    <i class="ri-question-fill"></i>
+                                </div>
+                                What do I get for $0 with my plan?
+                                <div class="accordion_arrow">
+                                    <i class="ri-add-fill"></i>
+                                </div>
+                            </div>
+                            <div class="accordion_content">
+                                <div class="accordion_item">
+                                    <p>With your plan's $0 benefit, you may receive essential services like preventive care, routine check-ups, or basic screenings at no cost, helping you maintain your health without worrying about out-of-pocket expenses for these covered services.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="rs-faq__form wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+                    <h4 class="title">Get Free Estimate</h4>
+                    <form id="contact-form" action="" method="post">
+                        <div class="input-box mb-35">
+                            <input id="name" name="name" type="text" placeholder="Full Name" required="">
+                        </div>
+                        <div class="input-box mb-35">
+                            <input id="phone" name="phone" type="text" placeholder="Phone Number" required="">
+                        </div>
+                        <div class="input-box mb-35">
+                            <input id="email" name="email" type="email" placeholder="E-mail Address" required="">
+                        </div>
+                        <div class="input-box arrow-select mb-70">
+                            <i class="ri-arrow-down-s-line"></i>
+                            <select id="insurance-type" name="insurance_type">
+                                <option value="" selected="">Insurance Type</option>
+                                <option value="travel_insurance">Travel Insurance</option>
+                                <option value="life_insurance">Life Insurance</option>
+                                <option value="education_insurance">Education Insurance</option>
+                                <option value="house_insurance">House Insurance</option>
+                            </select>
+                        </div>
+                        <div class="input-box">
+                            <div class="range-slider">
+                                <span class="range-slider__label  ">Limits Of Balance ($)</span>
+                                <input id="balance-limits" class="range-slider__range" name="balance_limits" type="range" value="100" min="0" max="500">
+                                <span class="range-slider__value">0</span>
+                            </div>
+                            <button class="main-btn" type="submit">Get a Quote Now <i class="ri-arrow-right-up-line"></i></button>
+                        </div>
+                    </form>
+                    <p id="form-messages" class="form-message mt-15"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==== Faq Section Ends ==== -->
+
+
+<!-- ==== Compare Section Start ==== -->
+<section class="rs-compare pt-120 pb-120">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3"></div>
+            <div class="col-lg-6">
+                <div class="section-title">
+                    <span> Cost Calculate</span>
+                    <h2 class="title">Get your insurance quotes and compare plans</h2>
+                </div>
+            </div>
+            <div class="col-lg-3"></div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="rs-compare__tabs">
+                    <div id="rs-tabs" class="rs-tab-active skltbs-theme-light use-drop skltbs-mode-tabs skltbs-init">
+                        <!-- tabGroup -->
+                        <ul class="skltbs-tab-group">
+                            <!-- tabItem -->
+                            <li class="skltbs-tab-item">
+                                <!-- tab -->
+                                <button class="skltbs-tab">Plan Level</button>
+                            </li>
+                            <li class="skltbs-tab-item">
+                                <button class="skltbs-tab">Age</button>
+                            </li>
+                            <li class="skltbs-tab-item">
+                                <button class="skltbs-tab">Company</button>
+                            </li>
+                            <li class="skltbs-tab-item">
+                                <button class="skltbs-tab">Location</button>
+                            </li>
+                        </ul>
+                        <!-- panelGroup -->
+                        <div class="skltbs-panel-group">
+                            <!-- panel -->
+                            <div class="skltbs-panel">
+                                <h4 class="title">Family insurance rates by plan level</h4>
+                                <p> Based on (4 person) applicant. </p>
+                                <img src="{% static 'frontend/assets/images/compare-1.jpg' %}" alt="">
+                            </div>
+                            <div class="skltbs-panel">
+                                <h4 class="title">Family insurance rates by age</h4>
+                                <p> Based on silver family insurance plans. </p>
+                                <img src="{% static 'frontend/assets/images/compare-2.jpg' %}" alt="">
+                            </div>
+                            <div class="skltbs-panel">
+                                <h4 class="title">Family insurance rates by Company</h4>
+                                <p> Based on a 40-years-old applicant buying a silver family insurance plan. </p>
+                                <img src="{% static 'frontend/assets/images/compare-3.jpg' %}" alt="">
+                            </div>
+                            <div class="skltbs-panel">
+                                <h4 class="title">Family insurance rates by State</h4>
+                                <p>Based on a 40-year-old with a Silver plan.</p>
+                                <img src="{% static 'frontend/assets/images/compare-4.jpg' %}" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="rs-shape-1 wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0s">
+        <img src="{% static 'frontend/assets/images/tab_man_image.png' %}" alt="">
+    </div>
+    <div class="rs-shape-2">
+        <img src="{% static 'frontend/assets/images/money_2.png' %}" alt="">
+    </div>
+</section>
+<!-- ==== Compare Section Ends ==== -->
+
+
+
+<!-- ==== Blog Section Start ==== -->
+<section class="rs-blog pt-120 pb-120" id="rs-blog">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-8">
+                <div class="section-title">
+                    <span> News & Blog</span>
+                    <h2 class="title">Get the latest updates & information from our experts.</h2>
+                </div>
+            </div>
+            <div class="col-lg-2"></div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="rs-blog__single mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s">
+                    <div class="rs-thumb">
+                        <a href="blog-single.html"><img src="{% static 'frontend/assets/images/blog-thumb-1.jpg' %}" alt=""></a>
+                    </div>
+                    <div class="rs-content">
+                        <ul>
+                            <li><i class="ri-calendar-2-line"></i> Oct 10, 2024</li>
+                            <li><a href="#"><i class="ri-user-line"></i> insurigorex</a></li>
+                        </ul>
+                        <h3 class="title"><a href="blog-single.html">Earn good money and make yourself very successful</a></h3>
+                        <!-- <a class="rs-link" href="blog-single.html">Continue Reading <i class="ri-arrow-right-line"></i></a> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="rs-blog__single mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.4s">
+                    <div class="rs-thumb">
+                        <a href="blog-single.html"><img src="{% static 'frontend/assets/images/blog-thumb-2.jpg' %}" alt=""></a>
+                    </div>
+                    <div class="rs-content">
+                        <ul>
+                            <li><i class="ri-calendar-2-line"></i> january 3, 2025</li>
+                            <li><a href="#"><i class="ri-user-line"></i> insurigo</a></li>
+                        </ul>
+                        <h3 class="title"><a href="blog-single.html">Protect your assets incase of damages or accident</a></h3>
+                        <!-- <a class="rs-link" href="blog-single.html">Continue Reading <i class="ri-arrow-right-line"></i></a> -->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="rs-blog__single item-3 mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.8s">
+                    <div class="rs-thumb">
+                        <a href="blog-single.html"><img src="{% static 'frontend/assets/images/blog-thumb-3.jpg' %}" alt=""></a>
+                    </div>
+                    <div class="rs-content">
+                        <ul>
+                            <li><i class="ri-calendar-2-line"></i> may 13, 2025</li>
+                            <li><a href="#"><i class="ri-user-line"></i> insurigorex</a></li>
+                        </ul>
+                        <h3 class="title"><a href="blog-single.html">Always remember that your health is your wealth. insure it</a></h3>
+                        <!-- <a class="rs-link" href="blog-single.html">Continue Reading <i class="ri-arrow-right-line"></i></a> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==== Blog Section Ends ==== -->
+
+
+
+<!-- ==== Cta Section Start ==== -->
+<div class="rs-cta pt-95 pb-95">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="rs-cta__title">
+                    <span>Newsletter</span>
+                    <h2 class="title">Get Daily Insurance News</h2>
+                    <p>Get instant news by subscribe to our daily newsletter.</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="rs-cta__form">
+                    <form action="#">
+                        <div class="input-box">
+                            <input type="text" placeholder="Enter your email address">
+                            <button type="submit">Subscribe Now </button>
+                        </div>
+                    </form>
+                    <div class="rs-shape">
+                        <img src="{% static 'frontend/assets/images/line_img.png' %}" alt="">
+                        <img src="{% static 'frontend/assets/images/line_img.png' %}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ==== Cta Section Ends ==== -->
+{% endblock %}
