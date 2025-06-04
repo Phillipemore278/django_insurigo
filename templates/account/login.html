@@ -1,0 +1,63 @@
+{% extends '../frontend/base.html' %} 
+{% load static %} 
+{% block content %} 
+<!-- ==== Service Page Banner Section Start ==== -->
+<section class="rs-page-banner rs-service-page-banner pt-100 pb-120 mt-140">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="rs-page-banner__content">
+                    <ul>
+                        <li><a href="{% url 'frontend:home' %}">Home</a></li>
+                        <li>Login</li>
+                    </ul>
+                    <h1 class="title">Sign In</h1>
+                    <p>Looking for insurance coverage anywhere in the world? <br>Feel free to reach out to us anytime—no hesitation needed. Our expert support team is always ready to help you find the perfect policy tailored to your needs.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==== Service Page Banner Section Ends ==== -->
+
+
+<!-- login form -->
+ <div class="container py-5">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-md-5">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="text-center">Login</h2>
+                    {% include '../notification/messages_alert.html' %}
+                    <hr class="mb-5">
+
+                    <!-- form here  -->
+                    <form method="post" action="{% url 'account:login' %}">
+                        {% csrf_token %}
+                        <input type="hidden" name="next" value="{{ next|default:'' }}">
+                    
+                        <div class="mb-3">
+                            <!-- {{ form.username.label_tag }} -->
+                            {{ form.username }}
+                            {{ form.username.errors }}
+                        </div>
+                        <div class="mb-3">
+                            <!-- {{ form.password.label_tag }} -->
+                            {{ form.password }}
+                            {{ form.password.errors }}
+                        </div>
+                        <div class="form-check mb-3">
+                            {{ form.remember_me }}
+                            {{ form.remember_me.label_tag }}
+                        </div>
+                    
+                        <button type="submit" class="btn btn-success w-100">Login</button>
+                    </form>
+                    
+
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>
+{% endblock %}

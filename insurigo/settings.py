@@ -38,7 +38,13 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    # installed apps
+    'captcha',
+
+    # my custom apps
     'frontend',
+    'account',
+    'customer',
 ]
 
 MIDDLEWARE = [
@@ -102,6 +108,10 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
+# Custom user model
+AUTH_USER_MODEL = "account.Customer"
+LOGIN_URL = "/account/login/"
+
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 
@@ -124,3 +134,20 @@ STATICFILES_DIRS = [os.path.join(BASE_DIR, "static")]
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# CAPTCHA_CHALLENGE_FUNCT = 'captcha.helpers.math_challenge'
+CAPTCHA_LETTER_ROTATION = None  # ⛔ No character rotation
+CAPTCHA_NOISE_FUNCTIONS = ['captcha.helpers.noise_dots', 'captcha.helpers.noise_arcs']
+CAPTCHA_LETTER_ROTATION = (-10, 10)
+CAPTCHA_FONT_SIZE = 30  # Optional: larger font
+CAPTCHA_IMAGE_SIZE = (110, 50)  # Optional: bigger image for clarity
+
+# messages alert colouring
+from django.contrib.messages import constants as messages
+MESSAGE_TAGS = {
+    messages.DEBUG: 'secondary',   
+    messages.INFO: 'info',          
+    messages.SUCCESS: 'success',    
+    messages.WARNING: 'warning',    
+    messages.ERROR: 'danger',       
+}

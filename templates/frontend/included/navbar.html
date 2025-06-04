@@ -61,6 +61,8 @@
                       >Services</a>
                   </li>
                   <li><a href="contact.html">Contact Us</a></li>
+                  <li><a href="{% url 'account:login' %}">Login</a></li>
+                  <li><a href="{% url 'account:register' %}">Register</a></li>
                 </ul>
                 <!-- //.nav-menu -->
               </div>
@@ -112,16 +114,23 @@
         <div class="off-canvas-menu">
             <ul class="nav-menu">
                 <li class="has-clid relative">
-                    <a href="index.html">Home</a>
+                    <a href="{% url 'frontend:home' %}">Home</a>
                 </li>
                 <li class="has-clid relative">
-                    <a href="about-1.html">About</a>
+                    <a href="{% url 'frontend:about' %}">About</a>
                 </li>
                 <li class="has-clid relative">
-                    <a href="service-1.html">Services</a>
+                    <a href="{% url 'frontend:services' %}">Services</a>
+                </li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li class="has-clid relative">
+                    <a href="{% url 'account:login' %}">Login</a>
+                </li>
+                <li class="has-clid relative">
+                    <a href="{% url 'account:register' %}">Register</a>
                 </li>
                 
-                <li><a href="contact.html">Contact Us</a></li>
+                
             </ul> <!-- //.nav-menu -->
         </div>
         <div class="widget gallery-widget">
