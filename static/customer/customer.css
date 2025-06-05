@@ -1,0 +1,44 @@
+.bg-success {
+  background-color: #003a37 !important;
+}
+.bg-success2 {
+  background-color: #01201f !important;
+}
+.sidebar {
+  border-right: 0.4px solid rgb(175, 235, 207);
+}
+.sidebar .sidebar_links {
+  margin-top: 40px;
+}
+.nav-link {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.nav-link.active {
+  background-color: #fff;
+  color: #000;
+  border-radius: 10px;
+}
+
+.nav-link:hover {
+  background-color: #fff;
+  color: #000;
+  border-radius: 10px;
+}
+
+.navbar {
+  border-bottom: 0.4px solid rgb(175, 235, 207);
+}
+
+.navbar .toggle_button {
+  color: #fff;
+  font-size: 20px;
+}
+
+.welcome_user_text {
+  font-size: 22px;
+  font-weight: 600;
+}

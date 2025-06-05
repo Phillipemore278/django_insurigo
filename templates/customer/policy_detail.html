@@ -1,0 +1,34 @@
+{% extends './base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-10">
+        <div class="card">
+            <div class="card-body">
+
+                <h2>Policy Details</h2>
+
+                <p><strong>Policy Number:</strong> {{ policy.policy_number }}</p>
+                <p><strong>Coverage Type:</strong> {{ policy.get_coverage_type_display }}</p>
+                <p><strong>Premium:</strong> ${{ policy.premium_amount }}</p>
+                <p><strong>Status:</strong> {{ policy.is_active|yesno:"Active,Inactive" }}</p>
+                <p><strong>Start:</strong> {{ policy.start_date }}</p>
+                <p><strong>End:</strong> {{ policy.end_date }}</p>
+
+                <h3>Vehicle Info</h3>
+                <p>Make: {{ policy.vehicle.make }}</p>
+                <p>Model: {{ policy.vehicle.model }}</p>
+                <p>Year: {{ policy.vehicle.year }}</p>
+                <p>VIN: {{ policy.vehicle.vin }}</p>
+                <p>Garage Address: {{ policy.vehicle.garage_address }}</p>
+
+                <a href="{% url 'customer:my_policies' %}">← Back to Policies</a>
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

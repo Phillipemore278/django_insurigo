@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // Actually submit the form after a tiny delay so UI updates
       setTimeout(() => {
         form.submit();
-      }, 100);
+      }, 400);
     });
   });
 });

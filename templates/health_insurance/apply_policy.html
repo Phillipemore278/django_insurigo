@@ -1,0 +1,21 @@
+{% extends '../customer/base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="row justify-content-center align-items-center py-4">
+    <div class="col-md-7">
+        <div class="card">
+            <div class="card-body">
+                <h2>Apply for Health Insurance</h2>
+
+                <form method="post">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <button type="submit">Continue to Dependents</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

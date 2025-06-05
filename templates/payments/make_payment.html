@@ -1,0 +1,28 @@
+{% extends '../customer/base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="row justify-content-center align-items-center py-4">
+    <div class="col-md-7">
+        <div class="card">
+            <div class="card-body">
+
+                <h2>Make Payment</h2>
+
+                <h3>Policy Details</h3>
+                <p><strong>Policy Number:</strong> {{ policy.policy_number }}</p>
+                <p><strong>Coverage:</strong> {{ policy.get_coverage_type_display }}</p>
+                <p><strong>Premium Amount:</strong> ${{ policy.premium_amount }}</p>
+
+                <form method="post">
+                    {% csrf_token %}
+                    {{ form.as_p }}
+
+                    <button type="submit">Submit Payment</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

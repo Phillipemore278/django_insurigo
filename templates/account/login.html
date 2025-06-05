@@ -32,7 +32,7 @@
                     <hr class="mb-5">
 
                     <!-- form here  -->
-                    <form method="post" action="{% url 'account:login' %}">
+                    <form method="post" action="{% url 'account:login' %}" data-form-action>
                         {% csrf_token %}
                         <input type="hidden" name="next" value="{{ next|default:'' }}">
                     
@@ -51,7 +51,13 @@
                             {{ form.remember_me.label_tag }}
                         </div>
                     
-                        <button type="submit" class="btn btn-success w-100">Login</button>
+                        <!-- <button type="submit" class="btn btn-success w-100">Login</button> -->
+                        <button type="submit" class="btn btn-success w-100" data-disabled-color="#003a37">
+                            <span class="button-text">Login</span>
+                            <span class="spinner" style="display: none;">
+                              <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                            </span>
+                        </button>
                     </form>
                     
 

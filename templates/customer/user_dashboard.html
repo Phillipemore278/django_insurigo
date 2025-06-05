@@ -1,1 +1,181 @@
-customer welcome
+{% extends './base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="row gx-0">
+    <div class="col-md-5">
+        <div class="card bg-success text-white">
+            <div class="card-body">
+                <div class="welcome px-md-5 pt-4 pb-3">
+                    <p>{{current_date}}</p>
+                    <h2 class="welcome_user_text">Welcome, {{request.user.full_name}}</h2>
+                </div>
+                <hr>
+                <div class="card bg-success text-white">
+                    <div class="card-body">
+                        <div class="row">
+        
+                            <div class="col-12 mb-3">
+                                <div class="card bg-light">
+                                    <div class="card-body">
+                                        <p class="fw-bold">Active Poilcies:</p>
+                                        <div class="row">
+                                            <div class="col-7">
+                                               Total: 
+                                            </div>
+                                            <div class="col-5">
+                                                0
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+        
+                            <div class="col-12 mb-3">
+                                <div class="card bg-light">
+                                    <div class="card-body">
+                                        <p class="fw-bold">Claims in Progress:</p>
+                                        <div class="row">
+                                            <div class="col-7">
+                                               Total: 
+                                            </div>
+                                            <div class="col-5">
+                                                0
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+        
+                            <div class="col-12">
+                                <div class="card bg-light">
+                                    <div class="card-body">
+                                        <p class="fw-bold">Payment Status:</p>
+                                        <div class="row">
+                                            <div class="col-7">
+                                               Total: 
+                                            </div>
+                                            <div class="col-5">
+                                                0
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <div class="card mb-4" style="background: transparent; color: #fff;">
+            <div class="card-header">
+              <h5 class="mb-0">Policy Chart</h5>
+            </div>
+            <div class="card-body">
+              <div style="width: 100%; height: 300px;">
+                <canvas id="salesChart" style="width: 100%; height: 100%;"></canvas>
+              </div>
+            </div>
+        </div>
+        <hr style="border-color: #fff;" class="my-0">
+        <div class="card" style="background: transparent; color: #fff;">
+            <div class="card-body">
+                <div class="row text-white">
+                    <div class="col-md-5">
+                        <h4>Monthly Net Profit</h4>
+                        <p>Total profit gained</p>
+                        <p class="lead">$25,049</p>
+
+                    </div>
+                    <div class="col-md-7">
+                        <div style="width: 100%; height: 100px;">
+                            <canvas id="profitChart" style="width: 100%; height: 100%;"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr style="border-color: #fff;">
+<div class="row">
+    <div class="col-md-7">
+        <div class="card">
+            <div class="card-body">
+                <h3>Hello</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- chart 1 -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx = document.getElementById('salesChart').getContext('2d');
+    const salesChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July',
+                 'August', 'September', 'October', 'November', 'December'],
+        datasets: [{
+          label: 'Revenue ($)',
+          data: [1200, 1900, 3000, 2500, 2300, 2800, 3200, 2900, 3100, 3500, 3700, 4000],
+          backgroundColor: 'rgba(54, 162, 235, 0.6)',
+          borderColor: 'rgba(54, 162, 235, 1)',
+          borderWidth: 1
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+</script>
+<script>
+    const ctx2 = document.getElementById('profitChart').getContext('2d');
+    const profitChart = new Chart(ctx2, {
+      type: 'polarArea',
+      data: {
+        labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+        datasets: [{
+          label: 'Daily Profit ($)',
+          data: [300, 500, 700, 400, 650, 800, 600],
+          backgroundColor: [
+            'rgba(255, 99, 132, 0.6)',
+            'rgba(54, 162, 235, 0.6)',
+            'rgba(255, 206, 86, 0.6)',
+            'rgba(75, 192, 192, 0.6)',
+            'rgba(153, 102, 255, 0.6)',
+            'rgba(255, 159, 64, 0.6)',
+            'rgba(199, 199, 199, 0.6)'
+          ],
+          borderColor: 'rgba(255, 255, 255, 1)',
+          borderWidth: 1
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: 'right'
+          }
+        }
+      }
+    });
+</script>
+  
+  
+  
+
+{% endblock %}

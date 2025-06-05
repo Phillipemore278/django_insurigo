@@ -6,4 +6,6 @@ app_name = 'customer'
 
 urlpatterns = [
     path('dashboard/', views.user_dashboard_view, name='user_dashboard'),
+    path('my-policies/', views.my_policies, name='my_policies'),
+    path('policy/<int:policy_id>/', views.policy_detail, name='policy_detail'),
 ]

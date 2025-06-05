@@ -31,7 +31,7 @@
                     <hr class="mb-5">
 
                     <!-- form here  -->
-                    <form method="post" novalidate>
+                    <form method="post" novalidate data-form-action>
                         {% csrf_token %}
                   
                         {% for field in form %}
@@ -44,7 +44,13 @@
                           </div>
                         {% endfor %}
                   
-                        <button type="submit" class="btn btn-primary">Register</button>
+                        <!-- <button type="submit" class="btn btn-primary">Register</button> -->
+                        <button type="submit" class="btn btn-success w-100" data-disabled-color="#003a37">
+                            <span class="button-text">Register</span>
+                            <span class="spinner" style="display: none;">
+                              <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                            </span>
+                        </button>
                     </form>
                     
 

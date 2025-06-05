@@ -1,0 +1,35 @@
+{% extends '../customer/base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="row justify-content-center align-items-center py-4">
+    <div class="col-md-7">
+        <div class="card">
+            <div class="card-body">
+                <h2>Quote Confirmation</h2>
+
+                <h3>Policy Summary</h3>
+                <p><strong>Policy Number:</strong> {{ policy.policy_number }}</p>
+                <p><strong>Coverage Type:</strong> {{ policy.get_coverage_type_display }}</p>
+                <p><strong>Premium:</strong> ${{ policy.premium_amount }}</p>
+                <p><strong>Start Date:</strong> {{ policy.start_date }}</p>
+                <p><strong>End Date:</strong> {{ policy.end_date }}</p>
+
+                <h3>Vehicle Details</h3>
+                <p><strong>Make:</strong> {{ vehicle.make }}</p>
+                <p><strong>Model:</strong> {{ vehicle.model }}</p>
+                <p><strong>Year:</strong> {{ vehicle.year }}</p>
+                <p><strong>VIN:</strong> {{ vehicle.vin }}</p>
+                <p><strong>Estimated Value:</strong> ${{ vehicle.value }}</p>
+                <p><strong>Garage Address:</strong> {{ vehicle.garage_address }}</p>
+
+                <form action="{% url 'payments:make_payment' policy.id %}" method="post">
+                        {% csrf_token %}
+                        <button type="submit">Confirm and Pay</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

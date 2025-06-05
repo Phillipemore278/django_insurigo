@@ -45,6 +45,10 @@ INSTALLED_APPS = [
     'frontend',
     'account',
     'customer',
+    'car_insurance',
+    'health_insurance',
+    'claims',
+    'payments',
 ]
 
 MIDDLEWARE = [

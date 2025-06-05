@@ -1,0 +1,32 @@
+{% extends '../customer/base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="row justify-content-center align-items-center py-4">
+    <div class="col-md-7">
+        <div class="card">
+            <div class="card-body">
+                <h2>Add Dependents for Policy {{ policy.policy_number }}</h2>
+
+                <form method="post" action=".">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <button type="submit">Add Dependent</button>
+                </form>
+
+                <h3>Current Dependents</h3>
+                <ul>
+                {% for dep in dependents %}
+                    <li>{{ dep.name }} — {{ dep.relationship }}</li>
+                {% empty %}
+                    <li>No dependents added yet.</li>
+                {% endfor %}
+                </ul>
+
+                <a href="#">Continue to Health History →</a>  
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

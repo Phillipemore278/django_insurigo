@@ -1,4 +1,4 @@
-from django.contrib.auth import login
+from django.contrib.auth import login, logout
 from django.shortcuts import render, redirect
 from django.contrib import messages
 from django.utils.http import url_has_allowed_host_and_scheme
@@ -53,6 +53,11 @@ def register_view(request):
     else:
         form = CustomerRegistrationForm()
     return render(request, 'account/register.html', {'form': form})
+
+
+def logout_view(request):
+    logout(request)  
+    return redirect('account:login')
 
 @login_required
 def admin_dashboard_view(request):
