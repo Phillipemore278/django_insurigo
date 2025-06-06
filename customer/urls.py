@@ -8,4 +8,5 @@ urlpatterns = [
     path('dashboard/', views.user_dashboard_view, name='user_dashboard'),
     path('my-policies/', views.my_policies, name='my_policies'),
     path('my-policies/<str:policy_type>/<int:policy_id>/', views.policy_detail, name='policy_detail'),
+    path('my-claims/', views.my_claims, name='my_claims'),
 ]

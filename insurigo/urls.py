@@ -10,5 +10,6 @@ urlpatterns = [
     path('account/car-insurance/', include('car_insurance.urls', namespace='car_insurance')),
     path('account/payments/', include('payments.urls', namespace='payments')),
     path('account/health_insurance/', include('health_insurance.urls', namespace='health_insurance')),
+    path('account/claims/', include('claims.urls', namespace='claims')),
     path('captcha/', include('captcha.urls')),
 ]

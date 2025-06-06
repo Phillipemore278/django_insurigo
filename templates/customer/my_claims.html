@@ -1,0 +1,55 @@
+{% extends './base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-10">
+        <div class="card">
+            <div class="card-body">
+                <h2>My Claims</h2>
+
+                {% if claims %}
+                    <table class="table table-bordered table-striped mt-3">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>#</th>
+                                <th>Policy Type</th>
+                                <th>Policy ID</th>
+                                <th>Date of Incident</th>
+                                <th>Status</th>
+                                <th>Description</th>
+                                <th>Submitted On</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for claim in claims %}
+                                <tr>
+                                    <td>{{ forloop.counter }}</td>
+                                    <td>{{ claim.policy_type|capfirst }}</td>
+                                    <td>{{ claim.policy_id }}</td>
+                                    <td>{{ claim.date_of_incident }}</td>
+                                    <td>
+                                        {% if claim.status == 'submitted' %}
+                                            <span class="badge bg-secondary">{{ claim.get_status_display }}</span>
+                                        {% elif claim.status == 'under_review' %}
+                                            <span class="badge bg-warning text-dark">{{ claim.get_status_display }}</span>
+                                        {% elif claim.status == 'approved' %}
+                                            <span class="badge bg-success">{{ claim.get_status_display }}</span>
+                                        {% elif claim.status == 'rejected' %}
+                                            <span class="badge bg-danger">{{ claim.get_status_display }}</span>
+                                        {% endif %}
+                                    </td>
+                                    <td>{{ claim.description|truncatewords:10 }}</td>
+                                    <td>{{ claim.created_at|date:"Y-m-d H:i" }}</td>
+                                </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                {% else %}
+                    <div class="alert alert-info">You haven't filed any claims yet.</div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -51,6 +51,11 @@
                 {% endif %}
 
                 <a href="{% url 'customer:my_policies' %}">← Back to Policies</a>
+                {% if policy_type in 'car health' %}
+                    <a href="{% url 'claims:file_claim' policy_type policy.id %}" class="btn btn-warning mt-3">
+                        File a Claim
+                    </a>
+                {% endif %}
 
             </div>
         </div>

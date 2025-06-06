@@ -67,12 +67,12 @@
         <h4 class="mb-4 text-white">Insurigorex</h4>
         <hr style="border-color: #fff; margin-bottom: 20px;">
         <nav class="nav flex-column sidebar_links">
-          <a class="nav-link active" href="#">Dashboard</a>
+          <a class="nav-link active" href="{% url 'customer:user_dashboard' %}">Dashboard</a>
           <a class="nav-link" href="{% url 'car_insurance:apply_for_car_insurance' %}">Get Insurance</a>
           <a class="nav-link" href="{% url 'customer:my_policies' %}">My Policies</a>
           <a class="nav-link" href="{% url 'health_insurance:apply_policy' %}">Get Health</a>
           <a class="nav-link" href="#">Get a Quote</a>
-          <a class="nav-link" href="#">Make a Claim</a>
+          <a class="nav-link" href="{% url 'customer:my_claims' %}">My Claims</a>
           <a class="nav-link" href="#">Payments & Billing</a>
           <a class="nav-link" href="#">Support</a>
           <a class="nav-link" href="#">Settings</a>
