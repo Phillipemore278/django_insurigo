@@ -23,7 +23,7 @@
                 <p><strong>Estimated Value:</strong> ${{ vehicle.value }}</p>
                 <p><strong>Garage Address:</strong> {{ vehicle.garage_address }}</p>
 
-                <form action="{% url 'payments:make_payment' policy.id %}" method="post">
+                <form action="{% url 'payments:make_payment' 'car' policy.id %}" method="post">
                         {% csrf_token %}
                         <button type="submit">Confirm and Pay</button>
                 </form>

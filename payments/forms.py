@@ -1,6 +1,10 @@
 from django import forms
 from .models import Payment
 
+from django import forms
+
+from django import forms
+from .models import Payment
 
 class PaymentForm(forms.ModelForm):
     class Meta:
@@ -13,5 +17,6 @@ class PaymentForm(forms.ModelForm):
                 ('ussd', 'USSD'),
                 ('wallet', 'Wallet'),
             ]),
-            'transaction_id': forms.TextInput(attrs={'placeholder': 'Payment Reference ID'})
+            'transaction_id': forms.TextInput(attrs={'placeholder': 'Payment Reference ID'}),
         }
+

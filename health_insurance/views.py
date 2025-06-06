@@ -1,9 +1,10 @@
-from django.shortcuts import render, redirect
+from django.shortcuts import get_object_or_404, render, redirect
+from django.contrib.auth.decorators import login_required
 from django.utils import timezone
 from datetime import timedelta
 from decimal import Decimal
-from .models import HealthPolicy, Dependent
-from .forms import HealthPolicyForm, DependentForm
+from .models import HealthPolicy, Dependent, HealthHistory
+from .forms import HealthPolicyForm, DependentForm, HealthHistoryForm
 
 
 def apply_for_health_insurance(request):
@@ -57,3 +58,46 @@ def add_dependents(request, policy_id):
         'policy': policy,
         'dependents': dependents
     })
+
+
+@login_required
+def add_health_history(request, policy_id):
+    policy = get_object_or_404(HealthPolicy, id=policy_id, user=request.user)
+
+    try:
+        history = request.user.health_history
+    except HealthHistory.DoesNotExist:
+        history = None
+
+    if request.method == 'POST':
+        form = HealthHistoryForm(request.POST, instance=history)
+        if form.is_valid():
+            history = form.save(commit=False)
+            history.user = request.user
+            history.save()
+            return redirect('health_insurance:quote_summary', policy_id=policy.id)
+    else:
+        form = HealthHistoryForm(instance=history)
+
+    return render(request, 'health_insurance/add_health_history.html', {
+        'form': form,
+        'policy': policy
+    })
+
+
+@login_required
+def quote_summary(request, policy_id):
+    policy = get_object_or_404(HealthPolicy, id=policy_id, user=request.user)
+    dependents = policy.dependents.all()
+
+    try:
+        health_history = request.user.health_history
+    except HealthHistory.DoesNotExist:
+        health_history = None
+
+    context = {
+        'policy': policy,
+        'dependents': dependents,
+        'health_history': health_history,
+    }
+    return render(request, 'health_insurance/quote_summary.html', context)

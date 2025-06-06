@@ -1,0 +1,23 @@
+{% extends '../customer/base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="row justify-content-center align-items-center py-4">
+    <div class="col-md-7">
+        <div class="card">
+            <div class="card-body">
+                <h2>Medical History</h2>
+
+                <form method="post">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <button type="submit">Continue to Quote</button>
+                </form>
+
+                <p><small>Leave any field blank if not applicable.</small></p>
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

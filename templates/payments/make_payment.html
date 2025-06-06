@@ -7,18 +7,17 @@
         <div class="card">
             <div class="card-body">
 
-                <h2>Make Payment</h2>
+                <h2>Make Payment for {{ policy_type|title }} Policy</h2>
 
-                <h3>Policy Details</h3>
                 <p><strong>Policy Number:</strong> {{ policy.policy_number }}</p>
-                <p><strong>Coverage:</strong> {{ policy.get_coverage_type_display }}</p>
                 <p><strong>Premium Amount:</strong> ${{ policy.premium_amount }}</p>
+                <p><strong>Plan Type:</strong> {{ policy.get_plan_type_display }}</p>
+                <p><strong>Coverage Period:</strong> {{ policy.start_date }} to {{ policy.end_date }}</p>
 
                 <form method="post">
                     {% csrf_token %}
                     {{ form.as_p }}
-
-                    <button type="submit">Submit Payment</button>
+                    <button type="submit">Pay ${{ policy.premium_amount }}</button>
                 </form>
 
             </div>

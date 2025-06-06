@@ -1,0 +1,50 @@
+{% extends '../customer/base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="row justify-content-center align-items-center py-4">
+    <div class="col-md-7">
+        <div class="card">
+            <div class="card-body">
+
+                <h2>Quote Summary for Policy {{ policy.policy_number }}</h2>
+
+                <h3>Policy Details</h3>
+                <ul>
+                <li>Plan Type: {{ policy.get_plan_type_display }}</li>
+                <li>Start Date: {{ policy.start_date }}</li>
+                <li>End Date: {{ policy.end_date }}</li>
+                <li>Premium Amount: ${{ policy.premium_amount }}</li>
+                <li>Add-Ons: {{ policy.add_ons|default:"None" }}</li>
+                </ul>
+
+                <h3>Dependents</h3>
+                {% if dependents %}
+                <ul>
+                    {% for dep in dependents %}
+                    <li>{{ dep.name }} ({{ dep.relationship }}) - DOB: {{ dep.date_of_birth }}</li>
+                    {% endfor %}
+                </ul>
+                {% else %}
+                <p>No dependents added.</p>
+                {% endif %}
+
+                <h3>Health History</h3>
+                {% if health_history %}
+                <p><strong>Conditions:</strong> {{ health_history.conditions|linebreaksbr|default:"None" }}</p>
+                <p><strong>Medications:</strong> {{ health_history.medications|linebreaksbr|default:"None" }}</p>
+                <p><strong>Allergies:</strong> {{ health_history.allergies|linebreaksbr|default:"None" }}</p>
+                {% else %}
+                <p>No health history provided.</p>
+                {% endif %}
+
+                <form method="post" action="{% url 'payments:make_payment' 'health' policy.id %}">
+                {% csrf_token %}
+                <button type="submit">Confirm and Make Payment</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

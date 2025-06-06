@@ -7,25 +7,50 @@
         <div class="card">
             <div class="card-body">
 
-                <h2>Policy Details</h2>
+                <h2>{{ policy_type|capfirst }} Policy Details</h2>
 
                 <p><strong>Policy Number:</strong> {{ policy.policy_number }}</p>
-                <p><strong>Coverage Type:</strong> {{ policy.get_coverage_type_display }}</p>
+
+                {% if policy_type == "car" %}
+                    <p><strong>Coverage Type:</strong> {{ policy.get_coverage_type_display }}</p>
+                {% elif policy_type == "health" %}
+                    <p><strong>Plan Type:</strong> {{ policy.get_plan_type_display }}</p>
+                    <p><strong>Add-ons:</strong> {{ policy.add_ons|default:"None" }}</p>
+                {% endif %}
+
                 <p><strong>Premium:</strong> ${{ policy.premium_amount }}</p>
                 <p><strong>Status:</strong> {{ policy.is_active|yesno:"Active,Inactive" }}</p>
                 <p><strong>Start:</strong> {{ policy.start_date }}</p>
                 <p><strong>End:</strong> {{ policy.end_date }}</p>
 
-                <h3>Vehicle Info</h3>
-                <p>Make: {{ policy.vehicle.make }}</p>
-                <p>Model: {{ policy.vehicle.model }}</p>
-                <p>Year: {{ policy.vehicle.year }}</p>
-                <p>VIN: {{ policy.vehicle.vin }}</p>
-                <p>Garage Address: {{ policy.vehicle.garage_address }}</p>
+                {% if policy_type == "car" %}
+                    <h3>Vehicle Info</h3>
+                    <p><strong>Make:</strong> {{ policy.vehicle.make }}</p>
+                    <p><strong>Model:</strong> {{ policy.vehicle.model }}</p>
+                    <p><strong>Year:</strong> {{ policy.vehicle.year }}</p>
+                    <p><strong>VIN:</strong> {{ policy.vehicle.vin }}</p>
+                    <p><strong>Garage Address:</strong> {{ policy.vehicle.garage_address }}</p>
+                {% elif policy_type == "health" %}
+                    {% if policy.dependents.exists %}
+                        <h3>Dependents</h3>
+                        <ul>
+                            {% for dep in policy.dependents.all %}
+                                <li>{{ dep.name }} ({{ dep.relationship }}, {{ dep.date_of_birth }})</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                    {% if health_history %}
+                        <h3>Health History</h3>
+                        <p><strong>Medical Conditions:</strong> {{ health_history.conditions|default:"None" }}</p>
+                        <p><strong>Medications:</strong> {{ health_history.medications|default:"None" }}</p>
+                        <p><strong>Allergies:</strong> {{ health_history.allergies|default:"None" }}</p>
+                    {% else %}
+                        <h3>Health History</h3>
+                        <p>No health history available for this policy.</p>
+                    {% endif %}
+                {% endif %}
 
                 <a href="{% url 'customer:my_policies' %}">← Back to Policies</a>
-
-
 
             </div>
         </div>

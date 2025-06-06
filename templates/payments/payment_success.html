@@ -6,11 +6,11 @@
     <div class="col-md-7">
         <div class="card">
             <div class="card-body">
-
-                <!-- payment_success.html -->
+            <div class="container">
                 <h2>Payment Successful</h2>
-                <p>Your policy <strong>{{ policy.policy_number }}</strong> is now active.</p>
+                <p>Thank you! Your payment for policy <strong>{{ policy_number }}</strong> has been received. Your policy is now Active</p>
                 <a href="{% url 'customer:user_dashboard' %}">Go to Dashboard</a>
+            </div>
             </div>
         </div>
     </div>
