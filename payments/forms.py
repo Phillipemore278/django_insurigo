@@ -20,3 +20,11 @@ class PaymentForm(forms.ModelForm):
             'transaction_id': forms.TextInput(attrs={'placeholder': 'Payment Reference ID'}),
         }
 
+    def __init__(self, *args, **kwargs):
+        super(PaymentForm, self).__init__(*args, **kwargs)
+
+        for field_name in self.fields:
+            self.fields[field_name].widget.attrs.update({
+                'class': 'form-control',
+            })
+

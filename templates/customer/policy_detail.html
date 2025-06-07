@@ -2,12 +2,13 @@
 {% load static %}
 
 {% block content %}
-<div class="row">
-    <div class="col-md-10">
+<div class="row justify-content-center align-items-center py-4">
+    <div class="col-md-8">
         <div class="card">
             <div class="card-body">
 
-                <h2>{{ policy_type|capfirst }} Policy Details</h2>
+                <h4 class="text-center">{{ policy_type|capfirst }} Policy Details</h4>
+                <hr>
 
                 <p><strong>Policy Number:</strong> {{ policy.policy_number }}</p>
 
@@ -24,7 +25,9 @@
                 <p><strong>End:</strong> {{ policy.end_date }}</p>
 
                 {% if policy_type == "car" %}
-                    <h3>Vehicle Info</h3>
+                    <hr>
+                    <h4 class="text-center">Car Information</h4>
+                    <hr>
                     <p><strong>Make:</strong> {{ policy.vehicle.make }}</p>
                     <p><strong>Model:</strong> {{ policy.vehicle.model }}</p>
                     <p><strong>Year:</strong> {{ policy.vehicle.year }}</p>
@@ -51,8 +54,8 @@
                 {% endif %}
 
                 <a href="{% url 'customer:my_policies' %}">← Back to Policies</a>
-                {% if policy_type in 'car health' %}
-                    <a href="{% url 'claims:file_claim' policy_type policy.id %}" class="btn btn-warning mt-3">
+                {% if policy_type in 'car health' %} <br>
+                    <a href="{% url 'claims:file_claim' policy_type policy.id %}" class="btn btn-success mt-3 w-100 fw-bold text-light">
                         File a Claim
                     </a>
                 {% endif %}

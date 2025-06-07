@@ -42,3 +42,8 @@
   font-size: 22px;
   font-weight: 600;
 }
+
+.row-height {
+  height: 100vh;
+  padding-top: 100px;
+}

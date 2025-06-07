@@ -1,0 +1,54 @@
+{% extends './base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="row justify-content-center row-height">
+    <div class="col-md-5">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="text-center">Get an Insurance Quote</h5>
+                <hr>
+
+                <form method="post" id="quote-form" data-form-action>
+                    {% csrf_token %}
+                    {{ form.insurance_type.label_tag }} {{ form.insurance_type }}
+
+                    <div id="health-fields" style="display:none; margin-top:1em;" class="mb-3">
+                        {{ form.health_plan_type.label_tag }} {{ form.health_plan_type }}<br>
+                        {{ form.health_dependents.label_tag }} {{ form.health_dependents }}<br>
+                        {{ form.health_add_ons }} {{ form.health_add_ons.label_tag }}<br>
+                    </div>
+
+                    <div id="car-fields" style="display:none; margin-top:1em;" class="mb-3">
+                        {{ form.car_make.label_tag }} {{ form.car_make }}<br>
+                        {{ form.car_model.label_tag }} {{ form.car_model }}<br>
+                        {{ form.car_year.label_tag }} {{ form.car_year }}<br>
+                        {{ form.car_driver_age.label_tag }} {{ form.car_driver_age }}<br>
+                    </div>
+
+                    <button type="submit" class="btn btn-success w-100" data-disabled-color="#003a37">
+                        <span class="button-text">Get Quote</span>
+                        <span class="spinner" style="display: none;">
+                          <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                        </span>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    function toggleFields() {
+        const insuranceType = document.getElementById('id_insurance_type').value;
+        document.getElementById('health-fields').style.display = insuranceType === 'health' ? 'block' : 'none';
+        document.getElementById('car-fields').style.display = insuranceType === 'car' ? 'block' : 'none';
+    }
+
+    document.getElementById('id_insurance_type').addEventListener('change', toggleFields);
+
+    // Show correct fields on page load (for when form reloads after validation errors)
+    window.onload = toggleFields;
+</script>
+{% endblock %}

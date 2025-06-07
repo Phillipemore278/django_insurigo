@@ -24,7 +24,7 @@
                                                Total: 
                                             </div>
                                             <div class="col-5">
-                                                0
+                                                {{policy_count}}
                                             </div>
                                         </div>
                                     </div>
@@ -40,7 +40,7 @@
                                                Total: 
                                             </div>
                                             <div class="col-5">
-                                                0
+                                                {{claim_count}}
                                             </div>
                                         </div>
                                     </div>
@@ -85,9 +85,9 @@
             <div class="card-body">
                 <div class="row text-white">
                     <div class="col-md-5">
-                        <h4>Monthly Net Profit</h4>
-                        <p>Total profit gained</p>
-                        <p class="lead">$25,049</p>
+                        <h4>Policy Net Premium</h4>
+                        <p>Active Policies</p>
+                        <p class="lead">${{car_premium_summary}}</p>
 
                     </div>
                     <div class="col-md-7">
@@ -102,12 +102,11 @@
 </div>
 <hr style="border-color: #fff;">
 <div class="row">
-    <div class="col-md-7">
-        <div class="card">
+    <div class="col-md-7" style="background: transparent;">
+        <!-- <div class="card">
             <div class="card-body">
-                <h3>Hello</h3>
             </div>
-        </div>
+        </div> -->
     </div>
 </div>
 

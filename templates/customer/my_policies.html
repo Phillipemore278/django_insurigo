@@ -2,21 +2,23 @@
 {% load static %}
 
 {% block content %}
-<div class="row">
-    <div class="col-md-10">
+<div class="row justify-content-center align-items-center py-3">
+    <div class="col-md-8">
         <div class="card">
             <div class="card-body">
-                <h2>My Insurance Policies</h2>
+                <h3 class="text-center">My Insurance Policies</h3>
+                <hr>
 
                 <!-- Car Policies -->
-                <h3>Car Insurance</h3>
+                <h4 class="text-success ">Car Insurance Policy</h4>
+                <hr>
                 {% if car_policies %}
                     <ul>
                     {% for policy in car_policies %}
                         <li>
                             <strong>{{ policy.vehicle.make }} {{ policy.vehicle.model }}</strong><br>
                             Policy #: {{ policy.policy_number }} | Premium: ${{ policy.premium_amount }} | Active: {{ policy.is_active }}
-                            <br><a href="{% url 'customer:policy_detail' 'car' policy.id %}">View Policy</a>
+                            | <a href="{% url 'customer:policy_detail' 'car' policy.id %}">View Policy</a>
                         </li>
                     {% endfor %}
                     </ul>
@@ -25,14 +27,16 @@
                 {% endif %}
 
                 <!-- Health Policies -->
-                <h3>Health Insurance</h3>
+                <hr>
+                <h4 class="text-success ">Health Insurance Policy</h4>
+                <hr>
                 {% if health_policies %}
                     <ul>
                     {% for policy in health_policies %}
                         <li>
                             <strong>Plan: {{ policy.get_plan_type_display }}</strong><br>
                             Policy #: {{ policy.policy_number }} | Premium: ${{ policy.premium_amount }} | Active: {{ policy.is_active }}
-                            <br><a href="{% url 'customer:policy_detail' 'health' policy.id %}">View Policy</a>
+                            | <a href="{% url 'customer:policy_detail' 'health' policy.id %}">View Policy</a>
                         </li>
                     {% endfor %}
                     </ul>

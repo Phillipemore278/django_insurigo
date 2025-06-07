@@ -2,22 +2,30 @@
 {% load static %}
 
 {% block content %}
-<div class="row justify-content-center align-items-center py-4">
+<div class="row justify-content-center align-items-center py-4 row-height">
     <div class="col-md-7">
         <div class="card">
             <div class="card-body">
 
-                <h2>Make Payment for {{ policy_type|title }} Policy</h2>
+                <h4 class="text-center">Make Payment for {{ policy_type|title }} Policy</h4>
+                <hr>
 
                 <p><strong>Policy Number:</strong> {{ policy.policy_number }}</p>
                 <p><strong>Premium Amount:</strong> ${{ policy.premium_amount }}</p>
                 <p><strong>Plan Type:</strong> {{ policy.get_plan_type_display }}</p>
-                <p><strong>Coverage Period:</strong> {{ policy.start_date }} to {{ policy.end_date }}</p>
+                <p><strong>Coverage Period:</strong> From {{ policy.start_date }} to {{ policy.end_date }}</p>
+                <hr>
 
-                <form method="post">
+                <form method="post" data-form-action>
                     {% csrf_token %}
                     {{ form.as_p }}
-                    <button type="submit">Pay ${{ policy.premium_amount }}</button>
+                  
+                    <button type="submit" class="btn btn-success w-100" data-disabled-color="#003a37">
+                        <span class="button-text">Pay ${{ policy.premium_amount }}</span>
+                        <span class="spinner" style="display: none;">
+                          <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                        </span>
+                    </button>
                 </form>
 
             </div>

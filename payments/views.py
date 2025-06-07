@@ -14,7 +14,7 @@ def make_payment(request, policy_type, policy_id):
         from health_insurance.models import HealthPolicy
         policy = get_object_or_404(HealthPolicy, id=policy_id, user=request.user)
     else:
-        return redirect('home')  # Or return an error page
+        return redirect('customer: user_dashboard')  # Or return an error page
 
     if request.method == 'POST':
         form = PaymentForm(request.POST)

@@ -2,19 +2,27 @@
 {% load static %}
 
 {% block content %}
-<div class="row justify-content-center align-items-center py-4">
-    <div class="col-md-7">
+<div class="row justify-content-center row-height">
+    <div class="col-md-6">
         <div class="card">
             <div class="card-body">
-                <h2>Add Dependents for Policy {{ policy.policy_number }}</h2>
+                <h5 class="text-center">Add Dependents for Policy {{ policy.policy_number }}</h5>
+                <hr>
 
-                <form method="post" action=".">
-                {% csrf_token %}
-                {{ form.as_p }}
-                <button type="submit">Add Dependent</button>
+                <form method="post" action="." data-form-action>
+                    {% csrf_token %}
+                    {{ form.as_p }}
+                    <!-- <button type="submit">Add Dependent</button> -->
+                    <button type="submit" class="btn btn-success w-100" data-disabled-color="#003a37">
+                        <span class="button-text">Add Dependent</span>
+                        <span class="spinner" style="display: none;">
+                          <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                        </span>
+                    </button>
                 </form>
-
-                <h3>Current Dependents</h3>
+                <hr>
+                <h5 class="text-success">Current Dependents</h5>
+                <hr>
                 <ul>
                 {% for dep in dependents %}
                     <li>{{ dep.name }} — {{ dep.relationship }}</li>
@@ -23,7 +31,7 @@
                 {% endfor %}
                 </ul>
 
-                <a href="{% url 'health_insurance:add_health_history' policy.id %}">Continue to Health History →</a>  
+                <a href="{% url 'health_insurance:add_health_history' policy.id %}" class="float-start">Continue to Health History →</a>  
 
             </div>
         </div>

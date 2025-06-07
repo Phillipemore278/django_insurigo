@@ -2,17 +2,23 @@
 {% load static %}
 
 {% block content %}
-<div class="row justify-content-center align-items-center py-4">
-  <div class="col-md-7">
+<div class="row justify-content-center row-height">
+  <div class="col-md-5">
       <div class="card">
           <div class="card-body">
-            <h2>File a Claim for {{ policy_type|capfirst }} Policy #{{ policy.policy_number }}</h2>
+            <h5 class="text-center">File a Claim for {{ policy_type|capfirst }} Policy #{{ policy.policy_number }}</h5>
+            <hr>
 
-            <form method="post">
+            <form method="post" data-form-action>
               {% csrf_token %}
               {{ form.as_p }}
 
-              <button type="submit">Submit Claim</button>
+              <button type="submit" class="btn btn-success w-100 mb-3" data-disabled-color="#003a37">
+                <span class="button-text">Submit Claim</span>
+                <span class="spinner" style="display: none;">
+                  <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                </span>
+              </button>
             </form>
 
             <a href="{% url 'customer:my_policies' %}">← Back to My Policies</a>

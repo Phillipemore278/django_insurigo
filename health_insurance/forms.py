@@ -11,6 +11,14 @@ class HealthPolicyForm(forms.ModelForm):
         model = HealthPolicy
         fields = ['plan_type', 'add_ons']
 
+    def __init__(self, *args, **kwargs):
+        super(HealthPolicyForm, self).__init__(*args, **kwargs)
+
+        for field_name in self.fields:
+            self.fields[field_name].widget.attrs.update({
+                'class': 'form-control',
+            })
+
 
 class DependentForm(forms.ModelForm):
     class Meta:
@@ -19,6 +27,14 @@ class DependentForm(forms.ModelForm):
         widgets = {
             'date_of_birth': DateInput(attrs={'type': 'date'})
         }
+
+    def __init__(self, *args, **kwargs):
+        super(DependentForm, self).__init__(*args, **kwargs)
+
+        for field_name in self.fields:
+            self.fields[field_name].widget.attrs.update({
+                'class': 'form-control',
+            })
 
     def clean_date_of_birth(self):
         dob = self.cleaned_data['date_of_birth']
@@ -36,3 +52,11 @@ class HealthHistoryForm(forms.ModelForm):
             'medications': forms.Textarea(attrs={'rows': 2}),
             'allergies': forms.Textarea(attrs={'rows': 2}),
         }
+
+    def __init__(self, *args, **kwargs):
+        super(HealthHistoryForm, self).__init__(*args, **kwargs)
+
+        for field_name in self.fields:
+            self.fields[field_name].widget.attrs.update({
+                'class': 'form-control',
+            })

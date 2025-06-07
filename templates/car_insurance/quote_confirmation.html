@@ -6,16 +6,19 @@
     <div class="col-md-7">
         <div class="card">
             <div class="card-body">
-                <h2>Quote Confirmation</h2>
+                <h4 class="text-center">Quote Confirmation</h4>
+                <hr>
 
-                <h3>Policy Summary</h3>
+                <h5 class="text-success">Policy Summary</h5>
+                <hr>
                 <p><strong>Policy Number:</strong> {{ policy.policy_number }}</p>
                 <p><strong>Coverage Type:</strong> {{ policy.get_coverage_type_display }}</p>
                 <p><strong>Premium:</strong> ${{ policy.premium_amount }}</p>
                 <p><strong>Start Date:</strong> {{ policy.start_date }}</p>
                 <p><strong>End Date:</strong> {{ policy.end_date }}</p>
-
-                <h3>Vehicle Details</h3>
+                <hr>
+                <h5 class="text-success">Vehicle Details</h5>
+                <hr>
                 <p><strong>Make:</strong> {{ vehicle.make }}</p>
                 <p><strong>Model:</strong> {{ vehicle.model }}</p>
                 <p><strong>Year:</strong> {{ vehicle.year }}</p>
@@ -23,9 +26,15 @@
                 <p><strong>Estimated Value:</strong> ${{ vehicle.value }}</p>
                 <p><strong>Garage Address:</strong> {{ vehicle.garage_address }}</p>
 
-                <form action="{% url 'payments:make_payment' 'car' policy.id %}" method="post">
+                <form action="{% url 'payments:make_payment' 'car' policy.id %}" method="post" data-form-action>
                         {% csrf_token %}
-                        <button type="submit">Confirm and Pay</button>
+                        <!-- <button type="submit">Continue</button> -->
+                        <button type="submit" class="btn btn-success w-100" data-disabled-color="#003a37">
+                            <span class="button-text">Continue</span>
+                            <span class="spinner" style="display: none;">
+                              <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                            </span>
+                        </button>
                 </form>
 
             </div>

@@ -7,9 +7,11 @@
         <div class="card">
             <div class="card-body">
 
-                <h2>Quote Summary for Policy {{ policy.policy_number }}</h2>
+                <h5 class="text-center">Quote Summary for Policy {{ policy.policy_number }}</h5>
+                <hr>
 
-                <h3>Policy Details</h3>
+                <h5 class="text-success">Policy Details</h5>
+                <hr>
                 <ul>
                 <li>Plan Type: {{ policy.get_plan_type_display }}</li>
                 <li>Start Date: {{ policy.start_date }}</li>
@@ -18,7 +20,9 @@
                 <li>Add-Ons: {{ policy.add_ons|default:"None" }}</li>
                 </ul>
 
-                <h3>Dependents</h3>
+                <hr>
+                <h5 class="text-success">Dependents</h5>
+                <hr>
                 {% if dependents %}
                 <ul>
                     {% for dep in dependents %}
@@ -29,7 +33,9 @@
                 <p>No dependents added.</p>
                 {% endif %}
 
-                <h3>Health History</h3>
+                <hr>
+                <h5 class="text-success">Health History</h5>
+                <hr>
                 {% if health_history %}
                 <p><strong>Conditions:</strong> {{ health_history.conditions|linebreaksbr|default:"None" }}</p>
                 <p><strong>Medications:</strong> {{ health_history.medications|linebreaksbr|default:"None" }}</p>
@@ -38,9 +44,15 @@
                 <p>No health history provided.</p>
                 {% endif %}
 
-                <form method="post" action="{% url 'payments:make_payment' 'health' policy.id %}">
-                {% csrf_token %}
-                <button type="submit">Confirm and Make Payment</button>
+                <form method="post" action="{% url 'payments:make_payment' 'health' policy.id %}" data-form-action>
+                    {% csrf_token %}
+                    <!-- <button type="submit">Confirm and Make Payment</button> -->
+                    <button type="submit" class="btn btn-success w-100" data-disabled-color="#003a37">
+                        <span class="button-text">Confirm</span>
+                        <span class="spinner" style="display: none;">
+                        <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                        </span>
+                    </button>
                 </form>
 
             </div>
