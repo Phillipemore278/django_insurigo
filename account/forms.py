@@ -2,7 +2,7 @@ from django import forms
 from django.contrib.auth.forms import AuthenticationForm
 from captcha.fields import CaptchaField
 
-from .models import Customer
+from .models import Customer, Profile
 
 class CustomAuthenticationForm(AuthenticationForm):
     remember_me = forms.BooleanField(required=False, initial=False, label="Remember Me")
@@ -32,7 +32,7 @@ class CustomerRegistrationForm(forms.ModelForm):
 
     class Meta:
         model = Customer
-        fields = ['email', 'full_name', 'country']
+        fields = ['email', 'full_name']
         widgets = {
             'email': forms.EmailInput(attrs={'class': 'form-control'}),
             'full_name': forms.TextInput(attrs={'class': 'form-control'}),
@@ -55,3 +55,20 @@ class CustomerRegistrationForm(forms.ModelForm):
             customer.save()
         return customer
 
+
+class ProfileForm(forms.ModelForm):
+    class Meta:
+        model = Profile
+        fields = ['date_of_birth', 'address', 'state', 'zip_code', 'country', "socials"]
+    
+    def __init__(self, *args, **kwargs):
+        # Pass a flag to disable fields if needed
+        disable_fields = kwargs.pop('disable_fields', False)
+        super().__init__(*args, **kwargs)
+
+        for field_name in self.fields:
+            self.fields[field_name].widget.attrs.update({
+                'class': 'form-control',
+            })
+            if disable_fields:
+                self.fields[field_name].disabled = True  # make field readonly
