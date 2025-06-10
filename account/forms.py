@@ -1,6 +1,7 @@
 from django import forms
 from django.contrib.auth.forms import AuthenticationForm
 from captcha.fields import CaptchaField
+from django.forms.widgets import DateInput
 
 from .models import Customer, Profile
 
@@ -60,11 +61,17 @@ class ProfileForm(forms.ModelForm):
     class Meta:
         model = Profile
         fields = ['date_of_birth', 'address', 'state', 'zip_code', 'country', "socials"]
+        widgets = {
+            'date_of_birth': DateInput(attrs={'type': 'date'})
+        }
     
     def __init__(self, *args, **kwargs):
         # Pass a flag to disable fields if needed
         disable_fields = kwargs.pop('disable_fields', False)
         super().__init__(*args, **kwargs)
+
+        # Change label of 'socials' to 'SSN'
+        self.fields['socials'].label = 'SSN'
 
         for field_name in self.fields:
             self.fields[field_name].widget.attrs.update({

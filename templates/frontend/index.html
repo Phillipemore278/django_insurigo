@@ -355,7 +355,8 @@
             <div class="col-lg-6">
                 <div class="rs-faq__form wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
                     <h4 class="title">Get Free Estimate</h4>
-                    <form id="contact-form" action="" method="post">
+                    <form action="{% url 'frontend:frontend_get_quote' %}" method="post">
+                        {% csrf_token %}
                         <div class="input-box mb-35">
                             <input id="name" name="name" type="text" placeholder="Full Name" required="">
                         </div>
@@ -371,8 +372,8 @@
                                 <option value="" selected="">Insurance Type</option>
                                 <option value="travel_insurance">Travel Insurance</option>
                                 <option value="life_insurance">Life Insurance</option>
-                                <option value="education_insurance">Education Insurance</option>
-                                <option value="house_insurance">House Insurance</option>
+                                <option value="education_insurance">Car Insurance</option>
+                                <option value="house_insurance">Health Insurance</option>
                             </select>
                         </div>
                         <div class="input-box">
@@ -381,7 +382,13 @@
                                 <input id="balance-limits" class="range-slider__range" name="balance_limits" type="range" value="100" min="0" max="500">
                                 <span class="range-slider__value">0</span>
                             </div>
-                            <button class="main-btn" type="submit">Get a Quote Now <i class="ri-arrow-right-up-line"></i></button>
+                            <!-- <button class="main-btn" type="submit">Get a Quote Now <i class="ri-arrow-right-up-line"></i></button> -->
+                            <button type="submit" class="btn btn-success main-btn" data-disabled-color="#003a37">
+                                <span class="button-text ">Get a Quote Now <i class="ri-arrow-right-up-line"></i></span>
+                                <span class="spinner" style="display: none;">
+                                  <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                                </span>
+                            </button>
                         </div>
                     </form>
                     <p id="form-messages" class="form-message mt-15"></p>

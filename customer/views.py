@@ -79,10 +79,10 @@ def get_quote(request):
                 dependents = form.cleaned_data['health_dependents'] or 0
                 add_ons = form.cleaned_data['health_add_ons']
 
-                base_premium = {'hmo': 100, 'ppo': 150, 'epo': 130}.get(plan, 0)
-                dependents_cost = dependents * 50
-                add_ons_cost = 30 if add_ons else 0
-                total_premium = base_premium + dependents_cost + add_ons_cost +80
+                base_premium = {'hmo': 300, 'ppo': 350, 'epo': 330}.get(plan, 0)
+                dependents_cost = dependents * 100
+                add_ons_cost = 70 if add_ons else 0
+                total_premium = base_premium + dependents_cost + add_ons_cost + 180
                 year_payment = total_premium * 12
 
                 quote = {
@@ -103,11 +103,11 @@ def get_quote(request):
                 driver_age = form.cleaned_data['car_driver_age']
 
                 # Example premium calculation logic
-                base_premium = 200
-                age_surcharge = 100 if driver_age and driver_age < 25 else 0
+                base_premium = 500
+                age_surcharge = 200 if driver_age and driver_age < 25 else 0
                 year_discount = -10 * max(0, 2025 - (year or 2025))
 
-                total_premium = base_premium + age_surcharge + year_discount + 80
+                total_premium = base_premium + age_surcharge + year_discount + 180
                 year_payment = total_premium * 12
 
                 quote = {

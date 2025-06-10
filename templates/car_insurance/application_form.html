@@ -8,16 +8,20 @@
             <div class="card-body">
                 <form method="post" data-form-action>
                     {% csrf_token %}
-                    <h5 class="text-center">Car Information</h5>
+                    <h4 class="text-center mb-3">Fill the form Below </h4>
                     <hr>
-                    <h5>Personal Information</h5>
+                    <h5 class="text-center">Personal Information</h5>
+                    <hr>
                     {{ profile_form.as_p }}
+                    
                     <hr>
-                    <h4 class="text-center">Personal Information</h4>
+                    <h4 class="text-center">Car Information</h4>
+                    <hr>
                     {{ vehicle_form.as_p }}
+                    
                     <hr>
-                  
                     <h5 class="text-center">Coverage</h5>
+                    <hr>
                     {{ policy_form.as_p }}
                   
                     <button type="submit" class="btn btn-success w-100" data-disabled-color="#003a37">

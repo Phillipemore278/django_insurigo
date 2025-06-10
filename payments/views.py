@@ -45,3 +45,20 @@ def payment_success(request, policy_number):
     return render(request, 'payments/payment_success.html', {
         'policy_number': policy_number,
     })
+
+
+@login_required
+def get_receipt(request, policy_type, policy_id):
+    if policy_type == 'car':
+        from car_insurance.models import CarPolicy
+        policy = get_object_or_404(CarPolicy, id=policy_id, user=request.user)
+        context = {}
+    elif policy_type == 'health':
+        from health_insurance.models import HealthPolicy
+        policy = get_object_or_404(HealthPolicy, id=policy_id, user=request.user)
+        context = {}
+    else:
+        return redirect('customer: user_dashboard')
+
+    
+    return render(request, 'payments/get_receipt.html', context)
