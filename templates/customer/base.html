@@ -64,8 +64,11 @@
         </div>
         <div class="offcanvas-body bg-success">
           <nav class="nav flex-column">
-            <a class="nav-link active" href="#">Home</a>
-            <a class="nav-link" href="#">Profile</a>
+            <a class="nav-link" href="{% url 'customer:my_policies' %}">My Policies</a>
+            <a class="nav-link" href="{% url 'customer:get_quote' %}">Get a Quote</a>
+            <a class="nav-link" href="{% url 'customer:my_claims' %}">My Claims</a>
+            <a class="nav-link" href="#">Billings</a>
+            <a class="nav-link" href="#">Support</a>
             <a class="nav-link" href="#">Settings</a>
             <a class="nav-link" href="{% url 'account:logout' %}">Logout</a>
           </nav>
