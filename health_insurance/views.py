@@ -19,11 +19,11 @@ def apply_for_health_insurance(request):
 
             # Premium estimate based on plan
             plan_rates = {
-                'hmo': Decimal("150.00"),
-                'ppo': Decimal("250.00"),
-                'epo': Decimal("300.00")
+                'hmo': Decimal("300.00"),
+                'ppo': Decimal("350.00"),
+                'epo': Decimal("330.00")
             }
-            policy.premium_amount = plan_rates.get(policy.plan_type, Decimal("200.00"))
+            policy.premium_amount = plan_rates.get(policy.plan_type, Decimal("200.00")) * 28
             policy.is_active = False
             policy.save()
 

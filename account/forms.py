@@ -60,7 +60,7 @@ class CustomerRegistrationForm(forms.ModelForm):
 class ProfileForm(forms.ModelForm):
     class Meta:
         model = Profile
-        fields = ['date_of_birth', 'address', 'state', 'zip_code', 'country', "socials"]
+        fields = ['date_of_birth', 'address', 'phone', 'state', 'zip_code', 'country', "socials"]
         widgets = {
             'date_of_birth': DateInput(attrs={'type': 'date'})
         }

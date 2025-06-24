@@ -64,12 +64,23 @@
         </div>
         <div class="offcanvas-body bg-success">
           <nav class="nav flex-column">
+            <a class="nav-link active" href="{% url 'customer:user_dashboard' %}">Dashboard</a>
+            <!-- get insu Dropdown -->
+            <div class="nav-item dropdown dropdown-hover">
+              <a class="nav-link dropdown-toggle" href="#" id="settingsDropdown" role="button">
+                Get Insurance
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="settingsDropdown">
+                <li><a class="dropdown-item" href="{% url 'car_insurance:apply_for_car_insurance' %}">Car Insurance</a></li>
+                <li><a class="dropdown-item" href="{% url 'health_insurance:apply_policy' %}">Health Insurance</a></li>
+              </ul>
+            </div>
             <a class="nav-link" href="{% url 'customer:my_policies' %}">My Policies</a>
             <a class="nav-link" href="{% url 'customer:get_quote' %}">Get a Quote</a>
             <a class="nav-link" href="{% url 'customer:my_claims' %}">My Claims</a>
-            <a class="nav-link" href="#">Billings</a>
+            <!-- <a class="nav-link" href="#">Billings</a> -->
             <a class="nav-link" href="#">Support</a>
-            <a class="nav-link" href="#">Settings</a>
+            <!-- <a class="nav-link" href="#">Settings</a> -->
             <a class="nav-link" href="{% url 'account:logout' %}">Logout</a>
           </nav>
         </div>
@@ -94,9 +105,9 @@
           <a class="nav-link" href="{% url 'customer:my_policies' %}">My Policies</a>
           <a class="nav-link" href="{% url 'customer:get_quote' %}">Get a Quote</a>
           <a class="nav-link" href="{% url 'customer:my_claims' %}">My Claims</a>
-          <a class="nav-link" href="#">Payments & Billing</a>
+          <!-- <a class="nav-link" href="#">Billings</a> -->
           <a class="nav-link" href="#">Support</a>
-          <a class="nav-link" href="#">Settings</a>
+          <!-- <a class="nav-link" href="#">Settings</a> -->
           <a class="nav-link" href="{% url 'account:logout' %}">Logout</a>
 
           

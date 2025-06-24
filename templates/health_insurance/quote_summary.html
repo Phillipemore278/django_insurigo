@@ -44,7 +44,7 @@
                 <p>No health history provided.</p>
                 {% endif %}
 
-                <form method="post" action="{% url 'payments:make_payment' 'health' policy.id %}" data-form-action>
+                <form method="post" action="{% url 'payments:get_receipt' 'health' policy.id %}" data-form-action>
                     {% csrf_token %}
                     <!-- <button type="submit">Confirm and Make Payment</button> -->
                     <button type="submit" class="btn btn-success w-100" data-disabled-color="#003a37">

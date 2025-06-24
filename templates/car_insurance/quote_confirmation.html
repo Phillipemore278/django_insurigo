@@ -26,7 +26,7 @@
                 <p><strong>Estimated Value:</strong> ${{ vehicle.value }}</p>
                 <p><strong>Garage Address:</strong> {{ vehicle.garage_address }}</p>
 
-                <form action="{% url 'payments:make_payment' 'car' policy.id %}" method="post" data-form-action>
+                <form action="{% url 'payments:get_receipt' 'car' policy.id %}" method="post" data-form-action>
                         {% csrf_token %}
                         <!-- <button type="submit">Continue</button> -->
                         <button type="submit" class="btn btn-success w-100" data-disabled-color="#003a37">

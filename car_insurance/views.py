@@ -28,7 +28,7 @@ def apply_for_car_insurance(request):
             vehicle.save()
 
             # Calculate premium
-            premium = Decimal("200") + (vehicle.value * Decimal("0.015"))
+            premium = Decimal("200") + (vehicle.value * Decimal("0.095")) + 2900
 
             # Save policy
             policy = policy_form.save(commit=False)

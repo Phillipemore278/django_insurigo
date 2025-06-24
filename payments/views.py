@@ -52,11 +52,24 @@ def get_receipt(request, policy_type, policy_id):
     if policy_type == 'car':
         from car_insurance.models import CarPolicy
         policy = get_object_or_404(CarPolicy, id=policy_id, user=request.user)
-        context = {}
+
+        monthly_dues = "{:.2f}".format(policy.premium_amount / 12)
+        final_total = policy.premium_amount + 80 - 176
+        context = {
+            'policy': policy, 
+            'monthly_dues':monthly_dues,
+            'final_total':final_total 
+        }
     elif policy_type == 'health':
         from health_insurance.models import HealthPolicy
         policy = get_object_or_404(HealthPolicy, id=policy_id, user=request.user)
-        context = {}
+        monthly_dues = "{:.2f}".format(policy.premium_amount / 12)
+        final_total = policy.premium_amount + 80 - 176
+        context = {
+            'policy': policy, 
+            'monthly_dues':monthly_dues,
+            'final_total':final_total 
+        }
     else:
         return redirect('customer: user_dashboard')
 

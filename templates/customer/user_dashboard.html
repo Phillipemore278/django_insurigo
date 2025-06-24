@@ -50,13 +50,17 @@
                             <div class="col-12">
                                 <div class="card bg-light">
                                     <div class="card-body">
-                                        <p class="fw-bold">Payment Status:</p>
+                                        <p class="fw-bold">Billings:</p>
                                         <div class="row">
                                             <div class="col-7">
                                                Total: 
                                             </div>
                                             <div class="col-5">
-                                                0
+                                                {% if billing_count %}
+                                                    {{billing_count}}
+                                                {% else %}
+                                                    0
+                                                {% endif%}
                                             </div>
                                         </div>
                                     </div>

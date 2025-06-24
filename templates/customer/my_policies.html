@@ -19,6 +19,7 @@
                             <strong>{{ policy.vehicle.make }} {{ policy.vehicle.model }}</strong><br>
                             Policy #: {{ policy.policy_number }} | Premium: ${{ policy.premium_amount }} | Active: {{ policy.is_active }}
                             | <a href="{% url 'customer:policy_detail' 'car' policy.id %}">View Policy</a>
+                            | <a href="{% url 'payments:get_receipt' 'car' policy.id %}">View Invoice</a>
                         </li>
                     {% endfor %}
                     </ul>
@@ -37,6 +38,7 @@
                             <strong>Plan: {{ policy.get_plan_type_display }}</strong><br>
                             Policy #: {{ policy.policy_number }} | Premium: ${{ policy.premium_amount }} | Active: {{ policy.is_active }}
                             | <a href="{% url 'customer:policy_detail' 'health' policy.id %}">View Policy</a>
+                            | <a href="{% url 'payments:get_receipt' 'health' policy.id %}">View Invoice</a>
                         </li>
                     {% endfor %}
                     </ul>

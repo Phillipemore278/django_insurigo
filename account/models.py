@@ -42,6 +42,7 @@ class Profile(models.Model):
     zip_code = models.CharField(max_length=20,blank=True, null=True)
     country = models.CharField(max_length=70, null=True, blank=True)
     socials = models.CharField(max_length=100, blank=True, null=True)
+    phone = models.CharField(max_length=30, blank=True, null=True)
     # profile_picture = models.ImageField(upload_to='profile_pictures/', blank=True, null=True)
 
     def __str__(self):
